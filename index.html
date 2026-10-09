@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>Pokedex 3D Max - Web</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin />
+  <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="web/styles.css?v=6" />
+  <script defer src="web/vendor/model-viewer.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Pokedex 3D Max</h1>
+      <p id="status">Loading 3D catalog…</p>
+    </div>
+    <div class="top-actions"><span class="badge">WEB</span></div>
+  </header>
+
+  <main id="dexView" class="layout">
+    <aside class="sidebar">
+      <div class="browser-folder-picker">
+        <button id="chooseLocalModels" type="button">Open Switch model folder</button>
+        <button id="exportModelManifest" type="button" disabled title="Open a folder first, then download its verified inventory">Export model catalog</button>
+        <input id="localModelsFolder" type="file" webkitdirectory directory multiple hidden aria-label="Choose validated Switch model folder" />
+        <p id="folderStatus">Works entirely in your browser. Models stay on your device.</p>
+      </div>
+      <input id="search" type="search" placeholder="Search Pokémon or #" autocomplete="off" />
+      <div class="toolbar">
+        <button id="prevBtn" type="button">← Previous</button>
+        <button id="nextBtn" type="button">Next →</button>
+      </div>
+      <div id="list" class="pokemon-list" aria-live="polite"></div>
+    </aside>
+
+    <section class="viewer-panel">
+      <div class="viewer-header">
+        <div>
+          <div id="dexNumber" class="dex-number">#0001</div>
+          <h2 id="pokemonName">Bulbasaur</h2>
+          <div id="formName" class="form-name">Regular</div>
+        </div>
+        <select id="formSelect" aria-label="Form"></select>
+      </div>
+
+      <div class="viewer-wrap">
+        <model-viewer
+          id="viewer"
+          camera-controls
+          touch-action="pan-y"
+          interaction-prompt="none"
+          shadow-intensity="1"
+          shadow-softness="0.8"
+          exposure="1.15"
+          tone-mapping="aces"
+          environment-image="neutral"
+          min-camera-orbit="auto 1deg 12%"
+          max-camera-orbit="auto 179deg 1000%"
+          field-of-view="30deg"
+          loading="eager"
+          reveal="auto"
+          animation-crossfade-duration="180"
+          alt="3D Pokémon model">
+          <div slot="progress-bar" class="progress-bar">
+            <div class="progress-fill"></div>
+          </div>
+        </model-viewer>
+        <div id="threeFallback" class="three-fallback hidden" aria-label="Animated rigged Pokémon model"></div>
+
+        <div id="viewerMessage" class="viewer-message">Loading model…</div>
+        <div id="repairPanel" class="repair-panel hidden" role="region" aria-label="Texture repair progress">
+          <div class="repair-panel-header">
+            <strong id="repairTitle">Switch texture repair</strong>
+            <button id="closeRepair" type="button" aria-label="Close repair progress">Close</button>
+          </div>
+          <p id="repairSummary">Your original model files are kept until updated exports validate.</p>
+          <pre id="repairLog" aria-live="off">Preparing…</pre>
+        </div>
+      </div>
+
+      <div class="viewer-controls">
+        <button id="resetCamera" type="button">Reset camera</button>
+        <button id="toggleRotate" type="button">Auto-rotate: Off</button>
+        <button id="toggleIdleBreaks" type="button">Idle breaks: On</button>
+        <button id="repairTextures" type="button">Repair textures</button>
+      </div>
+
+      <p class="hint">Drag to rotate · Scroll/pinch to zoom · Switch models preferred · nearby Pokémon are prefetched</p>
+    </section>
+  </main>
+
+  <script>
+    window.__pokedex3dBooted = false;
+    window.addEventListener("error", function (event) {
+      var status = document.getElementById("status");
+      var message = document.getElementById("viewerMessage");
+      if (status) status.textContent = "Web app error";
+      if (message) {
+        message.textContent = "Web app failed to start: " + (event.message || "unknown JavaScript error");
+        message.classList.remove("hidden");
+      }
+    });
+    setTimeout(function () {
+      if (!window.__pokedex3dBooted) {
+        var status = document.getElementById("status");
+        var message = document.getElementById("viewerMessage");
+        if (status) status.textContent = "Web app did not start";
+        if (message) {
+          message.textContent = "app.js did not run. Refresh after pulling the latest files.";
+          message.classList.remove("hidden");
+        }
+      }
+    }, 2500);
+  </script>
+  <script src="web/species-names.js"></script>
+  <script src="web/models/switch-manifest.js?v=4" onerror="this.remove()"></script>
+  <script defer src="web/local-switch-catalog.js?v=2"></script>
+  <script defer src="web/models/github-inventory.js?v=1"></script>
+  <script defer src="web/remote-switch-catalog.js?v=2"></script>
+  <script defer src="web/app.js?v=35"></script>
+</body>
+</html>
+
