@@ -30,23 +30,25 @@ The optional `scripts/build_model_manifest.py` remains for developers with a loc
 
 ## GitHub Pages website (no billing)
 
-The standalone 3D Pokédex is already in this public repository's `docs/` directory.
-It uses the existing numbered `0001/regular.glb` model files through the
-public GitHub raw-file URLs, so we do **not** copy 663 MB into `docs/`.
+The standalone 3D Pokédex is already at the **repository root** as `index.html`
+and `web/`. All 756 numbered GLBs also live at the root, so GitHub Pages
+can serve the website and models from the same HTTPS origin without exposing
+credentials or fetching assets from another site.
 
 To make the site available, on GitHub open:
 **Settings → Pages → Build and deployment → Source: Deploy from a branch →
-Branch: main → Folder: /docs → Save**.
+Branch: main → Folder: / (root) → Save**.
 
 After GitHub has finished the Pages deployment, its expected URL is:
 
 https://unborne-fetus.github.io/Pokedex-3D-Models-Animations/
 
 No commands, payment information, GitHub Actions workflow, installer, or local
-folder selection is needed for visitors. The website includes a bundled local
-copy of the model-viewer JavaScript library. It discovers the public file
-inventory automatically and checks each downloaded GLB's embedded color
-textures and idle animation before displaying that individual model.
+folder selection is needed for visitors. The website includes a bundled local copy of the model-viewer JavaScript
+library. It discovers the public file inventory automatically and downloads
+each selected GLB from the same GitHub Pages site. Before rendering, it checks
+that the file has embedded base-color textures and an identifiable idle
+animation.
 
 **Current coverage:** 756 uploaded regular GLBs. The original 903-model local
 import had more models. The website does not invent replacements for gaps.
