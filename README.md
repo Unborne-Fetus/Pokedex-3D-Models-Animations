@@ -12,11 +12,21 @@ The model repository contains converted **regular Pokémon** GLB files organized
 
 A GLB normally includes its material textures and animation clips; those do not need separate folders.
 
-## Verified model catalog
+## No-billing model catalog
 
-A GitHub Actions workflow scans the GLB headers, mesh/material texture links, and idle animation clips and maintains `switch-manifest.json` automatically. It does **not** modify any model files, convert assets, or restore missing original files. A model is only added to the manifest if it passes those structural checks. Visual fidelity still requires an in-browser inspection.
+GitHub Actions is **not required** and has been removed from this repository.
 
-The existing files may include some models with incorrect shader colors/transparency, which structural validation alone cannot detect. Keep the original import files until those problems are resolved.
+There are two no-command options:
+
+1. Open the updated `Pokedex-3D-Max/index.html` in Chrome/Edge.
+2. Click **Open Switch model folder** and select the local folder containing the converted `switch/0001/regular.glb` files.
+3. The browser checks the model structures, texture bindings, animations, and idle clips on your computer.
+4. Click **Export model catalog**. The browser downloads `switch-manifest.json`.
+5. In this private GitHub repository, use **Add file → Upload files** to upload that JSON using the GitHub website. Make sure the listed model files have also been uploaded.
+
+The uploaded JSON is only a structural catalog; it cannot guarantee visually correct Switch shader colors, transparency, or legal redistribution rights. The previously committed `uploaded-model-inventory.json` lists existing uploaded filenames without claiming they passed material inspection.
+
+The optional `scripts/build_model_manifest.py` remains for developers with a local Python environment, but no command-line tools or paid build service are needed for the browser workflow.
 
 ## How the website will connect
 
