@@ -6,6 +6,20 @@
   <meta name="pokedex3d-deployment" content="github-pages-redeploy-2026-10-09" />
   <meta name="theme-color" content="#0b1220" />
   <title>Pokedex 3D Max - Web</title>
+  <script>
+    // Keep this asset repository as a fallback until the main site's GitHub
+    // Pages deployment is live. After that, redirect visitors automatically.
+    (async function () {
+      const target = "https://unborne-fetus.github.io/Pokedex-3D-Max/";
+      const destination = target + location.search + location.hash;
+      try {
+        const response = await fetch(target + "index.html", { cache: "no-store" });
+        if (response.ok && (await response.text()).includes("Pokedex 3D Max")) {
+          location.replace(destination);
+        }
+      } catch (_) { /* Keep this existing viewer functional during migration. */ }
+    })();
+  </script>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
   <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin />
   <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
