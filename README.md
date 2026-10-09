@@ -1,6 +1,6 @@
 # Pokedex 3D Models & Animations
 
-Private asset storage for [Pokedex 3D Max](https://github.com/Unborne-Fetus/Pokedex-3D-Max).
+Public GitHub-hosted Switch model and website repository for [Pokedex 3D Max](https://github.com/Unborne-Fetus/Pokedex-3D-Max).
 
 The model repository contains converted **regular Pokémon** GLB files organized by National Pokédex number:
 
