@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "source": "private-Switch-model-repository-file-inventory",
+  "source": "github-model-file-inventory",
   "count": 756,
   "totalBytes": 663530292,
-  "note": "File names and sizes only; not a verified texture or animation manifest. The private validator separately generates switch-manifest.json.",
+  "note": "Public GitHub repository file inventory: names and sizes only. Each GLB's embedded textures and idle animations are checked in the visitor's browser before display; visual fidelity is not guaranteed.",
   "entries": [
     {
       "dex": 1,
