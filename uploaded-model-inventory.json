@@ -1,9 +1,9 @@
 {
   "format": 1,
   "source": "github-model-file-inventory",
-  "count": 749,
-  "totalBytes": 652375836,
-  "note": "Public GitHub repository file inventory: names and sizes only. Each GLB's embedded textures and idle animations are checked in the visitor's browser before display; visual fidelity is not guaranteed.",
+  "count": 695,
+  "totalBytes": 564320684,
+  "note": "National Dex audited against source model IDs; wrong Pokémon files are removed or relocated. Missing species display no substitute.",
   "entries": [
     {
       "dex": 1,
@@ -2771,6 +2771,14 @@
       "bytes": 600400
     },
     {
+      "dex": 725,
+      "path": "0725/regular.glb",
+      "bytes": 2377212,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 844,
+      "originalCatalogDex": 844
+    },
+    {
       "dex": 726,
       "path": "0726/regular.glb",
       "bytes": 363700
@@ -2814,6 +2822,14 @@
       "dex": 734,
       "path": "0734/regular.glb",
       "bytes": 626504
+    },
+    {
+      "dex": 735,
+      "path": "0735/regular.glb",
+      "bytes": 2907552,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 827,
+      "originalCatalogDex": 827
     },
     {
       "dex": 737,
@@ -2874,6 +2890,14 @@
       "dex": 749,
       "path": "0749/regular.glb",
       "bytes": 436136
+    },
+    {
+      "dex": 750,
+      "path": "0750/regular.glb",
+      "bytes": 2673904,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 840,
+      "originalCatalogDex": 840
     },
     {
       "dex": 751,
@@ -2981,69 +3005,100 @@
       "bytes": 683252
     },
     {
-      "dex": 801,
-      "path": "0801/regular.glb",
-      "bytes": 1187752
+      "dex": 775,
+      "path": "0775/regular.glb",
+      "bytes": 2593960,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 811,
+      "originalCatalogDex": 811
     },
     {
-      "dex": 802,
-      "path": "0802/regular.glb",
-      "bytes": 1666164
+      "dex": 779,
+      "path": "0779/regular.glb",
+      "bytes": 1091068,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 855,
+      "originalCatalogDex": 855
     },
     {
-      "dex": 805,
-      "path": "0805/regular.glb",
-      "bytes": 668208
+      "dex": 789,
+      "path": "0789/regular.glb",
+      "bytes": 344096,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 871,
+      "originalCatalogDex": 871
     },
     {
-      "dex": 806,
-      "path": "0806/regular.glb",
-      "bytes": 821960
+      "dex": 790,
+      "path": "0790/regular.glb",
+      "bytes": 617152,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 872,
+      "originalCatalogDex": 872
     },
     {
-      "dex": 807,
-      "path": "0807/regular.glb",
-      "bytes": 2216360
+      "dex": 791,
+      "path": "0791/regular.glb",
+      "bytes": 1351008,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 873,
+      "originalCatalogDex": 873
     },
     {
-      "dex": 808,
-      "path": "0808/regular.glb",
-      "bytes": 1938976
-    },
-    {
-      "dex": 809,
-      "path": "0809/regular.glb",
-      "bytes": 1509332
+      "dex": 792,
+      "path": "0792/regular.glb",
+      "bytes": 870256,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 874,
+      "originalCatalogDex": 874
     },
     {
       "dex": 810,
       "path": "0810/regular.glb",
-      "bytes": 3226188
+      "bytes": 2766984,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 948,
+      "originalCatalogDex": 948
     },
     {
       "dex": 811,
       "path": "0811/regular.glb",
-      "bytes": 2593960
+      "bytes": 2666100,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 949,
+      "originalCatalogDex": 949
     },
     {
       "dex": 812,
       "path": "0812/regular.glb",
-      "bytes": 1121140
+      "bytes": 3396548,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 950,
+      "originalCatalogDex": 950
     },
     {
       "dex": 813,
       "path": "0813/regular.glb",
-      "bytes": 1127520
+      "bytes": 2446532,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 954,
+      "originalCatalogDex": 954
     },
     {
       "dex": 814,
       "path": "0814/regular.glb",
-      "bytes": 1345056
+      "bytes": 2826452,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 955,
+      "originalCatalogDex": 955
     },
     {
       "dex": 815,
       "path": "0815/regular.glb",
-      "bytes": 2433492
+      "bytes": 2923692,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 956,
+      "originalCatalogDex": 956
     },
     {
       "dex": 816,
@@ -3094,21 +3149,6 @@
       "dex": 825,
       "path": "0825/regular.glb",
       "bytes": 443520
-    },
-    {
-      "dex": 826,
-      "path": "0826/regular.glb",
-      "bytes": 2252200
-    },
-    {
-      "dex": 827,
-      "path": "0827/regular.glb",
-      "bytes": 2907552
-    },
-    {
-      "dex": 828,
-      "path": "0828/regular.glb",
-      "bytes": 2384016
     },
     {
       "dex": 829,
@@ -3163,12 +3203,18 @@
     {
       "dex": 839,
       "path": "0839/regular.glb",
-      "bytes": 2223356
+      "bytes": 1136336,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 935,
+      "originalCatalogDex": 935
     },
     {
       "dex": 840,
       "path": "0840/regular.glb",
-      "bytes": 2673904
+      "bytes": 857116,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 966,
+      "originalCatalogDex": 966
     },
     {
       "dex": 841,
@@ -3183,47 +3229,18 @@
     {
       "dex": 843,
       "path": "0843/regular.glb",
-      "bytes": 2063604
+      "bytes": 894784,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 936,
+      "originalCatalogDex": 936
     },
     {
       "dex": 844,
       "path": "0844/regular.glb",
-      "bytes": 2377212
-    },
-    {
-      "dex": 845,
-      "path": "0845/regular.glb",
-      "bytes": 2664492
-    },
-    {
-      "dex": 846,
-      "path": "0846/regular.glb",
-      "bytes": 2865048
-    },
-    {
-      "dex": 847,
-      "path": "0847/regular.glb",
-      "bytes": 1162636
-    },
-    {
-      "dex": 848,
-      "path": "0848/regular.glb",
-      "bytes": 1796468
-    },
-    {
-      "dex": 849,
-      "path": "0849/regular.glb",
-      "bytes": 1545472
-    },
-    {
-      "dex": 850,
-      "path": "0850/regular.glb",
-      "bytes": 771912
-    },
-    {
-      "dex": 851,
-      "path": "0851/regular.glb",
-      "bytes": 1661768
+      "bytes": 2249120,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 937,
+      "originalCatalogDex": 937
     },
     {
       "dex": 852,
@@ -3234,11 +3251,6 @@
       "dex": 853,
       "path": "0853/regular.glb",
       "bytes": 562568
-    },
-    {
-      "dex": 855,
-      "path": "0855/regular.glb",
-      "bytes": 1091068
     },
     {
       "dex": 856,
@@ -3271,11 +3283,6 @@
       "bytes": 951504
     },
     {
-      "dex": 863,
-      "path": "0863/regular.glb",
-      "bytes": 1698816
-    },
-    {
       "dex": 866,
       "path": "0866/regular.glb",
       "bytes": 907356
@@ -3288,12 +3295,10 @@
     {
       "dex": 868,
       "path": "0868/regular.glb",
-      "bytes": 1877560
-    },
-    {
-      "dex": 869,
-      "path": "0869/regular.glb",
-      "bytes": 1349568
+      "bytes": 623316,
+      "sourceGame": "SV-PokeDLC2",
+      "sourceModelId": 924,
+      "originalCatalogDex": 924
     },
     {
       "dex": 870,
@@ -3303,22 +3308,34 @@
     {
       "dex": 871,
       "path": "0871/regular.glb",
-      "bytes": 344096
+      "bytes": 558040,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 944,
+      "originalCatalogDex": 944
     },
     {
       "dex": 872,
       "path": "0872/regular.glb",
-      "bytes": 617152
+      "bytes": 1674468,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 945,
+      "originalCatalogDex": 945
     },
     {
       "dex": 873,
       "path": "0873/regular.glb",
-      "bytes": 1351008
+      "bytes": 1317448,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 946,
+      "originalCatalogDex": 946
     },
     {
       "dex": 874,
       "path": "0874/regular.glb",
-      "bytes": 870256
+      "bytes": 2584884,
+      "sourceGame": "SV-Poke",
+      "sourceModelId": 974,
+      "originalCatalogDex": 974
     },
     {
       "dex": 876,
@@ -3416,6 +3433,22 @@
       "bytes": 850120
     },
     {
+      "dex": 899,
+      "path": "0899/regular.glb",
+      "bytes": 519012,
+      "sourceGame": "LA-Poke",
+      "sourceModelId": 1001,
+      "originalCatalogDex": 1001
+    },
+    {
+      "dex": 900,
+      "path": "0900/regular.glb",
+      "bytes": 645388,
+      "sourceGame": "ZA-PokeDLC",
+      "sourceModelId": 1002,
+      "originalCatalogDex": 1002
+    },
+    {
       "dex": 901,
       "path": "0901/regular.glb",
       "bytes": 747688
@@ -3424,16 +3457,6 @@
       "dex": 902,
       "path": "0902/regular.glb",
       "bytes": 781040
-    },
-    {
-      "dex": 903,
-      "path": "0903/regular.glb",
-      "bytes": 787708
-    },
-    {
-      "dex": 904,
-      "path": "0904/regular.glb",
-      "bytes": 2167656
     },
     {
       "dex": 906,
@@ -3545,134 +3568,9 @@
       "bytes": 527584
     },
     {
-      "dex": 924,
-      "path": "0924/regular.glb",
-      "bytes": 623316
-    },
-    {
-      "dex": 926,
-      "path": "0926/regular.glb",
-      "bytes": 854576
-    },
-    {
-      "dex": 927,
-      "path": "0927/regular.glb",
-      "bytes": 1161212
-    },
-    {
-      "dex": 929,
-      "path": "0929/regular.glb",
-      "bytes": 584996
-    },
-    {
-      "dex": 933,
-      "path": "0933/regular.glb",
-      "bytes": 1998248
-    },
-    {
-      "dex": 934,
-      "path": "0934/regular.glb",
-      "bytes": 826212
-    },
-    {
-      "dex": 935,
-      "path": "0935/regular.glb",
-      "bytes": 1136336
-    },
-    {
-      "dex": 936,
-      "path": "0936/regular.glb",
-      "bytes": 894784
-    },
-    {
-      "dex": 937,
-      "path": "0937/regular.glb",
-      "bytes": 2249120
-    },
-    {
-      "dex": 940,
-      "path": "0940/regular.glb",
-      "bytes": 1890528
-    },
-    {
       "dex": 942,
       "path": "0942/regular.glb",
       "bytes": 840576
-    },
-    {
-      "dex": 944,
-      "path": "0944/regular.glb",
-      "bytes": 558040
-    },
-    {
-      "dex": 945,
-      "path": "0945/regular.glb",
-      "bytes": 1674468
-    },
-    {
-      "dex": 946,
-      "path": "0946/regular.glb",
-      "bytes": 1317448
-    },
-    {
-      "dex": 948,
-      "path": "0948/regular.glb",
-      "bytes": 2766984
-    },
-    {
-      "dex": 949,
-      "path": "0949/regular.glb",
-      "bytes": 2666100
-    },
-    {
-      "dex": 950,
-      "path": "0950/regular.glb",
-      "bytes": 3396548
-    },
-    {
-      "dex": 951,
-      "path": "0951/regular.glb",
-      "bytes": 1125484
-    },
-    {
-      "dex": 952,
-      "path": "0952/regular.glb",
-      "bytes": 1085104
-    },
-    {
-      "dex": 953,
-      "path": "0953/regular.glb",
-      "bytes": 1196408
-    },
-    {
-      "dex": 954,
-      "path": "0954/regular.glb",
-      "bytes": 2446532
-    },
-    {
-      "dex": 955,
-      "path": "0955/regular.glb",
-      "bytes": 2826452
-    },
-    {
-      "dex": 956,
-      "path": "0956/regular.glb",
-      "bytes": 2923692
-    },
-    {
-      "dex": 957,
-      "path": "0957/regular.glb",
-      "bytes": 909588
-    },
-    {
-      "dex": 958,
-      "path": "0958/regular.glb",
-      "bytes": 1494172
-    },
-    {
-      "dex": 959,
-      "path": "0959/regular.glb",
-      "bytes": 3087376
     },
     {
       "dex": 964,
@@ -3683,96 +3581,6 @@
       "dex": 965,
       "path": "0965/regular.glb",
       "bytes": 743420
-    },
-    {
-      "dex": 966,
-      "path": "0966/regular.glb",
-      "bytes": 857116
-    },
-    {
-      "dex": 967,
-      "path": "0967/regular.glb",
-      "bytes": 1475632
-    },
-    {
-      "dex": 968,
-      "path": "0968/regular.glb",
-      "bytes": 1047736
-    },
-    {
-      "dex": 969,
-      "path": "0969/regular.glb",
-      "bytes": 928348
-    },
-    {
-      "dex": 970,
-      "path": "0970/regular.glb",
-      "bytes": 1334260
-    },
-    {
-      "dex": 971,
-      "path": "0971/regular.glb",
-      "bytes": 1853656
-    },
-    {
-      "dex": 974,
-      "path": "0974/regular.glb",
-      "bytes": 2584884
-    },
-    {
-      "dex": 976,
-      "path": "0976/regular.glb",
-      "bytes": 904176
-    },
-    {
-      "dex": 977,
-      "path": "0977/regular.glb",
-      "bytes": 1290516
-    },
-    {
-      "dex": 978,
-      "path": "0978/regular.glb",
-      "bytes": 1465104
-    },
-    {
-      "dex": 982,
-      "path": "0982/regular.glb",
-      "bytes": 3208004
-    },
-    {
-      "dex": 984,
-      "path": "0984/regular.glb",
-      "bytes": 2486444
-    },
-    {
-      "dex": 985,
-      "path": "0985/regular.glb",
-      "bytes": 2700012
-    },
-    {
-      "dex": 989,
-      "path": "0989/regular.glb",
-      "bytes": 1596144
-    },
-    {
-      "dex": 990,
-      "path": "0990/regular.glb",
-      "bytes": 2264664
-    },
-    {
-      "dex": 1001,
-      "path": "1001/regular.glb",
-      "bytes": 519012
-    },
-    {
-      "dex": 1002,
-      "path": "1002/regular.glb",
-      "bytes": 645388
-    },
-    {
-      "dex": 1007,
-      "path": "1007/regular.glb",
-      "bytes": 752124
     }
   ]
 }

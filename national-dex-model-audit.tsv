@@ -1,0 +1,1026 @@
+dex	pokemon	status	model_path	source_game	source_model_id	original_catalog_dex
+1	Bulbasaur	model-listed	0001/regular.glb	ZA-Poke	1	
+2	Ivysaur	model-listed	0002/regular.glb	ZA-Poke	2	
+3	Venusaur	model-listed	0003/regular.glb	ZA-Poke	3	
+4	Charmander	model-listed	0004/regular.glb	ZA-Poke	4	
+5	Charmeleon	model-listed	0005/regular.glb	ZA-Poke	5	
+6	Charizard	model-listed	0006/regular.glb	ZA-Poke	6	
+7	Squirtle	model-listed	0007/regular.glb	ZA-Poke	7	
+8	Wartortle	model-listed	0008/regular.glb	ZA-Poke	8	
+9	Blastoise	model-listed	0009/regular.glb	ZA-Poke	9	
+10	Caterpie	missing				
+11	Metapod	missing				
+12	Butterfree	missing				
+13	Weedle	model-listed	0013/regular.glb	ZA-Poke	13	
+14	Kakuna	model-listed	0014/regular.glb	ZA-Poke	14	
+15	Beedrill	model-listed	0015/regular.glb	ZA-Poke	15	
+16	Pidgey	model-listed	0016/regular.glb	ZA-Poke	16	
+17	Pidgeotto	model-listed	0017/regular.glb	ZA-Poke	17	
+18	Pidgeot	model-listed	0018/regular.glb	ZA-Poke	18	
+19	Rattata	missing				
+20	Raticate	missing				
+21	Spearow	missing				
+22	Fearow	missing				
+23	Ekans	model-listed	0023/regular.glb	ZA-Poke	23	
+24	Arbok	model-listed	0024/regular.glb	ZA-Poke	24	
+25	Pikachu	model-listed	0025/regular.glb	ZA-Poke	25	
+26	Raichu	model-listed	0026/regular.glb	ZA-Poke	26	
+27	Sandshrew	missing				
+28	Sandslash	missing				
+29	Nidoran♀	missing				
+30	Nidorina	missing				
+31	Nidoqueen	missing				
+32	Nidoran♂	missing				
+33	Nidorino	missing				
+34	Nidoking	missing				
+35	Clefairy	model-listed	0035/regular.glb	ZA-Poke	35	
+36	Clefable	model-listed	0036/regular.glb	ZA-Poke	36	
+37	Vulpix	model-listed	0037/regular.glb	LA-Poke	37	
+38	Ninetales	model-listed	0038/regular.glb	LA-Poke	38	
+39	Jigglypuff	model-listed	0039/regular.glb	ZA-PokeDLC	39	
+40	Wigglytuff	model-listed	0040/regular.glb	ZA-PokeDLC	40	
+41	Zubat	model-listed	0041/regular.glb	ZA-PokeDLC	41	
+42	Golbat	model-listed	0042/regular.glb	ZA-PokeDLC	42	
+43	Oddish	model-listed	0043/regular.glb	SV-PokeDLC2	43	
+44	Gloom	model-listed	0044/regular.glb	SV-PokeDLC2	44	
+45	Vileplume	model-listed	0045/regular.glb	SV-PokeDLC2	45	
+46	Paras	model-listed	0046/regular.glb	LA-Poke	46	
+47	Parasect	model-listed	0047/regular.glb	LA-Poke	47	
+48	Venonat	model-listed	0048/regular.glb	SV-Poke	48	
+49	Venomoth	model-listed	0049/regular.glb	SV-Poke	49	
+50	Diglett	model-listed	0050/regular.glb	SV-Poke	50	
+51	Dugtrio	model-listed	0051/regular.glb	SV-Poke	51	
+52	Meowth	model-listed	0052/regular.glb	ZA-PokeDLC	52	
+53	Persian	model-listed	0053/regular.glb	ZA-PokeDLC	53	
+54	Psyduck	model-listed	0054/regular.glb	LA-Poke	54	
+55	Golduck	model-listed	0055/regular.glb	LA-Poke	55	
+56	Mankey	model-listed	0056/regular.glb	ZA-PokeDLC	56	
+57	Primeape	model-listed	0057/regular.glb	ZA-PokeDLC	57	
+58	Growlithe	model-listed	0058/regular.glb	SV-Poke	58	
+59	Arcanine	model-listed	0059/regular.glb	SV-Poke	59	
+60	Poliwag	missing				
+61	Poliwhirl	missing				
+62	Poliwrath	missing				
+63	Abra	model-listed	0063/regular.glb	ZA-Poke	63	
+64	Kadabra	model-listed	0064/regular.glb	ZA-Poke	64	
+65	Alakazam	model-listed	0065/regular.glb	ZA-Poke	65	
+66	Machop	model-listed	0066/regular.glb	ZA-Poke	66	
+67	Machoke	model-listed	0067/regular.glb	ZA-Poke	67	
+68	Machamp	model-listed	0068/regular.glb	ZA-Poke	68	
+69	Bellsprout	model-listed	0069/regular.glb	ZA-Poke	69	
+70	Weepinbell	model-listed	0070/regular.glb	ZA-Poke	70	
+71	Victreebel	model-listed	0071/regular.glb	ZA-Poke	71	
+72	Tentacool	model-listed	0072/regular.glb	LA-Poke	72	
+73	Tentacruel	model-listed	0073/regular.glb	LA-Poke	73	
+74	Geodude	model-listed	0074/regular.glb	LA-Poke	74	
+75	Graveler	model-listed	0075/regular.glb	LA-Poke	75	
+76	Golem	model-listed	0076/regular.glb	LA-Poke	76	
+77	Ponyta	model-listed	0077/regular.glb	LA-Poke	77	
+78	Rapidash	model-listed	0078/regular.glb	LA-Poke	78	
+79	Slowpoke	model-listed	0079/regular.glb	ZA-Poke	79	
+80	Slowbro	model-listed	0080/regular.glb	ZA-Poke	80	
+81	Magnemite	model-listed	0081/regular.glb	LA-Poke	81	
+82	Magneton	model-listed	0082/regular.glb	LA-Poke	82	
+83	Farfetch’d	model-listed	0083/regular.glb	ZA-PokeDLC	83	
+84	Doduo	model-listed	0084/regular.glb	SV-PokeDLC2	84	
+85	Dodrio	model-listed	0085/regular.glb	SV-PokeDLC2	85	
+86	Seel	model-listed	0086/regular.glb	SV-PokeDLC2	86	
+87	Dewgong	model-listed	0087/regular.glb	SV-PokeDLC2	87	
+88	Grimer	model-listed	0088/regular.glb	SV-Poke	88	
+89	Muk	model-listed	0089/regular.glb	SV-Poke	89	
+90	Shellder	model-listed	0090/regular.glb	SV-Poke	90	
+91	Cloyster	model-listed	0091/regular.glb	SV-Poke	91	
+92	Gastly	model-listed	0092/regular.glb	ZA-Poke	92	
+93	Haunter	model-listed	0093/regular.glb	ZA-Poke	93	
+94	Gengar	model-listed	0094/regular.glb	ZA-Poke	94	
+95	Onix	model-listed	0095/regular.glb	ZA-Poke	95	
+96	Drowzee	model-listed	0096/regular.glb	SV-Poke	96	
+97	Hypno	model-listed	0097/regular.glb	SV-Poke	97	
+98	Krabby	missing				
+99	Kingler	missing				
+100	Voltorb	model-listed	0100/regular.glb	SV-Poke	100	
+101	Electrode	model-listed	0101/regular.glb	SV-Poke	101	
+102	Exeggcute	model-listed	0102/regular.glb	SV-PokeDLC2	102	
+103	Exeggutor	model-listed	0103/regular.glb	SV-PokeDLC2	103	
+104	Cubone	model-listed	0104/regular.glb	ZA-PokeDLC	104	
+105	Marowak	model-listed	0105/regular.glb	ZA-PokeDLC	105	
+106	Hitmonlee	model-listed	0106/regular.glb	SV-PokeDLC2	106	
+107	Hitmonchan	model-listed	0107/regular.glb	SV-PokeDLC2	107	
+108	Lickitung	model-listed	0108/regular.glb	LA-Poke	108	
+109	Koffing	missing				
+110	Weezing	missing				
+111	Rhyhorn	model-listed	0111/regular.glb	LA-Poke	111	
+112	Rhydon	model-listed	0112/regular.glb	LA-Poke	112	
+113	Chansey	model-listed	0113/regular.glb	LA-Poke	113	
+114	Tangela	model-listed	0114/regular.glb	LA-Poke	114	
+115	Kangaskhan	model-listed	0115/regular.glb	ZA-Poke	115	
+116	Horsea	model-listed	0116/regular.glb	SV-PokeDLC2	116	
+117	Seadra	model-listed	0117/regular.glb	SV-PokeDLC2	117	
+118	Goldeen	missing				
+119	Seaking	missing				
+120	Staryu	model-listed	0120/regular.glb	ZA-Poke	120	
+121	Starmie	model-listed	0121/regular.glb	ZA-Poke	121	
+122	Mr. Mime	model-listed	0122/regular.glb	ZA-PokeDLC	122	
+123	Scyther	model-listed	0123/regular.glb	ZA-Poke	123	
+124	Jynx	missing				
+125	Electabuzz	model-listed	0125/regular.glb	LA-Poke	125	
+126	Magmar	model-listed	0126/regular.glb	LA-Poke	126	
+127	Pinsir	model-listed	0127/regular.glb	ZA-Poke	127	
+128	Tauros	model-listed	0128/regular.glb	SV-Poke	128	
+129	Magikarp	model-listed	0129/regular.glb	ZA-Poke	129	
+130	Gyarados	model-listed	0130/regular.glb	ZA-Poke	130	
+131	Lapras	model-listed	0131/regular.glb	SV-PokeDLC2	131	
+132	Ditto	model-listed	0132/regular.glb	SV-Poke	132	
+133	Eevee	model-listed	0133/regular.glb	ZA-Poke	133	
+134	Vaporeon	model-listed	0134/regular.glb	ZA-Poke	134	
+135	Jolteon	model-listed	0135/regular.glb	ZA-Poke	135	
+136	Flareon	model-listed	0136/regular.glb	ZA-Poke	136	
+137	Porygon	model-listed	0137/regular.glb	ZA-PokeDLC	137	
+138	Omanyte	missing				
+139	Omastar	missing				
+140	Kabuto	missing				
+141	Kabutops	missing				
+142	Aerodactyl	model-listed	0142/regular.glb	ZA-Poke	142	
+143	Snorlax	model-listed	0143/regular.glb	LA-Poke	143	
+144	Articuno	model-listed	0144/regular.glb	SV-Poke	144	
+145	Zapdos	model-listed	0145/regular.glb	SV-Poke	145	
+146	Moltres	model-listed	0146/regular.glb	SV-Poke	146	
+147	Dratini	model-listed	0147/regular.glb	ZA-Poke	147	
+148	Dragonair	model-listed	0148/regular.glb	ZA-Poke	148	
+149	Dragonite	model-listed	0149/regular.glb	ZA-Poke	149	
+150	Mewtwo	model-listed	0150/regular.glb	ZA-Poke	150	
+151	Mew	model-listed	0151/regular.glb	SV-Poke	151	
+152	Chikorita	model-listed	0152/regular.glb	ZA-Poke	152	
+153	Bayleef	model-listed	0153/regular.glb	ZA-Poke	153	
+154	Meganium	model-listed	0154/regular.glb	ZA-Poke	154	
+155	Cyndaquil	model-listed	0155/regular.glb	LA-Poke	155	
+156	Quilava	model-listed	0156/regular.glb	LA-Poke	156	
+157	Typhlosion	model-listed	0157/regular.glb	SV-Poke	157	
+158	Totodile	model-listed	0158/regular.glb	ZA-Poke	158	
+159	Croconaw	model-listed	0159/regular.glb	ZA-Poke	159	
+160	Feraligatr	model-listed	0160/regular.glb	ZA-Poke	160	
+161	Sentret	missing				
+162	Furret	missing				
+163	Hoothoot	missing				
+164	Noctowl	missing				
+165	Ledyba	missing				
+166	Ledian	missing				
+167	Spinarak	model-listed	0167/regular.glb	ZA-Poke	167	
+168	Ariados	model-listed	0168/regular.glb	ZA-Poke	168	
+169	Crobat	model-listed	0169/regular.glb	ZA-PokeDLC	169	
+170	Chinchou	model-listed	0170/regular.glb	SV-PokeDLC2	170	
+171	Lanturn	model-listed	0171/regular.glb	SV-PokeDLC2	171	
+172	Pichu	model-listed	0172/regular.glb	ZA-Poke	172	
+173	Cleffa	model-listed	0173/regular.glb	ZA-Poke	173	
+174	Igglybuff	model-listed	0174/regular.glb	ZA-PokeDLC	174	
+175	Togepi	model-listed	0175/regular.glb	LA-Poke	175	
+176	Togetic	model-listed	0176/regular.glb	LA-Poke	176	
+177	Natu	missing				
+178	Xatu	missing				
+179	Mareep	model-listed	0179/regular.glb	ZA-Poke	179	
+180	Flaaffy	model-listed	0180/regular.glb	ZA-Poke	180	
+181	Ampharos	model-listed	0181/regular.glb	ZA-Poke	181	
+182	Bellossom	model-listed	0182/regular.glb	SV-PokeDLC2	182	
+183	Marill	model-listed	0183/regular.glb	SV-Poke	183	
+184	Azumarill	model-listed	0184/regular.glb	SV-Poke	184	
+185	Sudowoodo	model-listed	0185/regular.glb	LA-Poke	185	
+186	Politoed	missing				
+187	Hoppip	model-listed	0187/regular.glb	SV-Poke	187	
+188	Skiploom	model-listed	0188/regular.glb	SV-Poke	188	
+189	Jumpluff	model-listed	0189/regular.glb	SV-Poke	189	
+190	Aipom	model-listed	0190/regular.glb	LA-Poke	190	
+191	Sunkern	model-listed	0191/regular.glb	SV-Poke	191	
+192	Sunflora	model-listed	0192/regular.glb	SV-Poke	192	
+193	Yanma	model-listed	0193/regular.glb	LA-Poke	193	
+194	Wooper	model-listed	0194/regular.glb	SV-Poke	194	
+195	Quagsire	model-listed	0195/regular.glb	SV-Poke	195	
+196	Espeon	model-listed	0196/regular.glb	ZA-Poke	196	
+197	Umbreon	model-listed	0197/regular.glb	ZA-Poke	197	
+198	Murkrow	model-listed	0198/regular.glb	LA-Poke	198	
+199	Slowking	model-listed	0199/regular.glb	ZA-Poke	199	
+200	Misdreavus	model-listed	0200/regular.glb	LA-Poke	200	
+201	Unown	missing				
+202	Wobbuffet	missing				
+203	Girafarig	model-listed	0203/regular.glb	SV-Poke	203	
+204	Pineco	model-listed	0204/regular.glb	SV-Poke	204	
+205	Forretress	model-listed	0205/regular.glb	SV-Poke	205	
+206	Dunsparce	model-listed	0206/regular.glb	SV-Poke	206	
+207	Gligar	model-listed	0207/regular.glb	LA-Poke	207	
+208	Steelix	model-listed	0208/regular.glb	ZA-Poke	208	
+209	Snubbull	model-listed	0209/regular.glb	SV-PokeDLC2	209	
+210	Granbull	model-listed	0210/regular.glb	SV-PokeDLC2	210	
+211	Qwilfish	model-listed	0211/regular.glb	ZA-PokeDLC	211	
+212	Scizor	model-listed	0212/regular.glb	ZA-Poke	212	
+213	Shuckle	missing				
+214	Heracross	model-listed	0214/regular.glb	ZA-Poke	214	
+215	Sneasel	model-listed	0215/regular.glb	LA-Poke	215	
+216	Teddiursa	model-listed	0216/regular.glb	LA-Poke	216	
+217	Ursaring	model-listed	0217/regular.glb	LA-Poke	217	
+218	Slugma	missing				
+219	Magcargo	missing				
+220	Swinub	model-listed	0220/regular.glb	LA-Poke	220	
+221	Piloswine	model-listed	0221/regular.glb	LA-Poke	221	
+222	Corsola	missing				
+223	Remoraid	model-listed	0223/regular.glb	LA-Poke	223	
+224	Octillery	model-listed	0224/regular.glb	LA-Poke	224	
+225	Delibird	model-listed	0225/regular.glb	ZA-Poke	225	
+226	Mantine	model-listed	0226/regular.glb	LA-Poke	226	
+227	Skarmory	model-listed	0227/regular.glb	ZA-Poke	227	
+228	Houndour	model-listed	0228/regular.glb	ZA-Poke	228	
+229	Houndoom	model-listed	0229/regular.glb	ZA-Poke	229	
+230	Kingdra	model-listed	0230/regular.glb	SV-PokeDLC2	230	
+231	Phanpy	model-listed	0231/regular.glb	SV-Poke	231	
+232	Donphan	model-listed	0232/regular.glb	SV-Poke	232	
+233	Porygon2	model-listed	0233/regular.glb	ZA-PokeDLC	233	
+234	Stantler	model-listed	0234/regular.glb	LA-Poke	234	
+235	Smeargle	model-listed	0235/regular.glb	SV-PokeDLC2	235	
+236	Tyrogue	model-listed	0236/regular.glb	SV-PokeDLC2	236	
+237	Hitmontop	model-listed	0237/regular.glb	SV-PokeDLC2	237	
+238	Smoochum	missing				
+239	Elekid	model-listed	0239/regular.glb	LA-Poke	239	
+240	Magby	model-listed	0240/regular.glb	LA-Poke	240	
+241	Miltank	missing				
+242	Blissey	model-listed	0242/regular.glb	LA-Poke	242	
+243	Raikou	model-listed	0243/regular.glb	SV-PokeDLC2	243	
+244	Entei	model-listed	0244/regular.glb	SV-PokeDLC2	244	
+245	Suicune	model-listed	0245/regular.glb	SV-PokeDLC2	245	
+246	Larvitar	model-listed	0246/regular.glb	ZA-Poke	246	
+247	Pupitar	model-listed	0247/regular.glb	ZA-Poke	247	
+248	Tyranitar	model-listed	0248/regular.glb	ZA-Poke	248	
+249	Lugia	model-listed	0249/regular.glb	SV-PokeDLC2	249	
+250	Ho-Oh	model-listed	0250/regular.glb	SV-PokeDLC2	250	
+251	Celebi	missing				
+252	Treecko	model-listed	0252/regular.glb	ZA-PokeDLC	252	
+253	Grovyle	model-listed	0253/regular.glb	ZA-PokeDLC	253	
+254	Sceptile	model-listed	0254/regular.glb	ZA-PokeDLC	254	
+255	Torchic	model-listed	0255/regular.glb	ZA-PokeDLC	255	
+256	Combusken	model-listed	0256/regular.glb	ZA-PokeDLC	256	
+257	Blaziken	model-listed	0257/regular.glb	ZA-PokeDLC	257	
+258	Mudkip	model-listed	0258/regular.glb	ZA-PokeDLC	258	
+259	Marshtomp	model-listed	0259/regular.glb	ZA-PokeDLC	259	
+260	Swampert	model-listed	0260/regular.glb	ZA-PokeDLC	260	
+261	Poochyena	missing				
+262	Mightyena	missing				
+263	Zigzagoon	missing				
+264	Linoone	missing				
+265	Wurmple	model-listed	0265/regular.glb	LA-Poke	265	
+266	Silcoon	model-listed	0266/regular.glb	LA-Poke	266	
+267	Beautifly	model-listed	0267/regular.glb	LA-Poke	267	
+268	Cascoon	model-listed	0268/regular.glb	LA-Poke	268	
+269	Dustox	model-listed	0269/regular.glb	LA-Poke	269	
+270	Lotad	missing				
+271	Lombre	missing				
+272	Ludicolo	missing				
+273	Seedot	missing				
+274	Nuzleaf	missing				
+275	Shiftry	missing				
+276	Taillow	missing				
+277	Swellow	missing				
+278	Wingull	model-listed	0278/regular.glb	SV-Poke	278	
+279	Pelipper	model-listed	0279/regular.glb	SV-Poke	279	
+280	Ralts	model-listed	0280/regular.glb	ZA-Poke	280	
+281	Kirlia	model-listed	0281/regular.glb	ZA-Poke	281	
+282	Gardevoir	model-listed	0282/regular.glb	ZA-Poke	282	
+283	Surskit	model-listed	0283/regular.glb	SV-Poke	283	
+284	Masquerain	model-listed	0284/regular.glb	SV-Poke	284	
+285	Shroomish	model-listed	0285/regular.glb	SV-Poke	285	
+286	Breloom	model-listed	0286/regular.glb	SV-Poke	286	
+287	Slakoth	model-listed	0287/regular.glb	SV-Poke	287	
+288	Vigoroth	model-listed	0288/regular.glb	SV-Poke	288	
+289	Slaking	model-listed	0289/regular.glb	SV-Poke	289	
+290	Nincada	missing				
+291	Ninjask	missing				
+292	Shedinja	missing				
+293	Whismur	missing				
+294	Loudred	missing				
+295	Exploud	missing				
+296	Makuhita	model-listed	0296/regular.glb	SV-Poke	296	
+297	Hariyama	model-listed	0297/regular.glb	SV-Poke	297	
+298	Azurill	model-listed	0298/regular.glb	SV-Poke	298	
+299	Nosepass	model-listed	0299/regular.glb	LA-Poke	299	
+300	Skitty	missing				
+301	Delcatty	missing				
+302	Sableye	model-listed	0302/regular.glb	ZA-Poke	302	
+303	Mawile	model-listed	0303/regular.glb	ZA-Poke	303	
+304	Aron	model-listed	0304/regular.glb	ZA-Poke	304	
+305	Lairon	model-listed	0305/regular.glb	ZA-Poke	305	
+306	Aggron	model-listed	0306/regular.glb	ZA-Poke	306	
+307	Meditite	model-listed	0307/regular.glb	ZA-Poke	307	
+308	Medicham	model-listed	0308/regular.glb	ZA-Poke	308	
+309	Electrike	model-listed	0309/regular.glb	ZA-Poke	309	
+310	Manectric	model-listed	0310/regular.glb	ZA-Poke	310	
+311	Plusle	model-listed	0311/regular.glb	SV-PokeDLC2	311	
+312	Minun	model-listed	0312/regular.glb	SV-PokeDLC2	312	
+313	Volbeat	missing				
+314	Illumise	missing				
+315	Roselia	model-listed	0315/regular.glb	ZA-Poke	315	
+316	Gulpin	model-listed	0316/regular.glb	ZA-PokeDLC	316	
+317	Swalot	model-listed	0317/regular.glb	ZA-PokeDLC	317	
+318	Carvanha	model-listed	0318/regular.glb	ZA-Poke	318	
+319	Sharpedo	model-listed	0319/regular.glb	ZA-Poke	319	
+320	Wailmer	missing				
+321	Wailord	missing				
+322	Numel	model-listed	0322/regular.glb	ZA-Poke	322	
+323	Camerupt	model-listed	0323/regular.glb	ZA-Poke	323	
+324	Torkoal	model-listed	0324/regular.glb	SV-Poke	324	
+325	Spoink	model-listed	0325/regular.glb	ZA-PokeDLC	325	
+326	Grumpig	model-listed	0326/regular.glb	ZA-PokeDLC	326	
+327	Spinda	missing				
+328	Trapinch	model-listed	0328/regular.glb	SV-PokeDLC2	328	
+329	Vibrava	model-listed	0329/regular.glb	SV-PokeDLC2	329	
+330	Flygon	model-listed	0330/regular.glb	SV-PokeDLC2	330	
+331	Cacnea	model-listed	0331/regular.glb	SV-Poke	331	
+332	Cacturne	model-listed	0332/regular.glb	SV-Poke	332	
+333	Swablu	model-listed	0333/regular.glb	ZA-Poke	333	
+334	Altaria	model-listed	0334/regular.glb	ZA-Poke	334	
+335	Zangoose	model-listed	0335/regular.glb	ZA-PokeDLC	335	
+336	Seviper	model-listed	0336/regular.glb	ZA-PokeDLC	336	
+337	Lunatone	missing				
+338	Solrock	missing				
+339	Barboach	model-listed	0339/regular.glb	LA-Poke	339	
+340	Whiscash	model-listed	0340/regular.glb	LA-Poke	340	
+341	Corphish	missing				
+342	Crawdaunt	missing				
+343	Baltoy	missing				
+344	Claydol	missing				
+345	Lileep	missing				
+346	Cradily	missing				
+347	Anorith	missing				
+348	Armaldo	missing				
+349	Feebas	model-listed	0349/regular.glb	ZA-PokeDLC	349	
+350	Milotic	model-listed	0350/regular.glb	ZA-PokeDLC	350	
+351	Castform	missing				
+352	Kecleon	model-listed	0352/regular.glb	ZA-PokeDLC	352	
+353	Shuppet	model-listed	0353/regular.glb	ZA-Poke	353	
+354	Banette	model-listed	0354/regular.glb	ZA-Poke	354	
+355	Duskull	model-listed	0355/regular.glb	LA-Poke	355	
+356	Dusclops	model-listed	0356/regular.glb	LA-Poke	356	
+357	Tropius	model-listed	0357/regular.glb	SV-Poke	357	
+358	Chimecho	model-listed	0358/regular.glb	ZA-PokeDLC	358	
+359	Absol	model-listed	0359/regular.glb	ZA-Poke	359	
+360	Wynaut	missing				
+361	Snorunt	model-listed	0361/regular.glb	ZA-Poke	361	
+362	Glalie	model-listed	0362/regular.glb	ZA-Poke	362	
+363	Spheal	model-listed	0363/regular.glb	LA-Poke	363	
+364	Sealeo	model-listed	0364/regular.glb	LA-Poke	364	
+365	Walrein	model-listed	0365/regular.glb	LA-Poke	365	
+366	Clamperl	missing				
+367	Huntail	missing				
+368	Gorebyss	missing				
+369	Relicanth	missing				
+370	Luvdisc	model-listed	0370/regular.glb	SV-Poke	370	
+371	Bagon	model-listed	0371/regular.glb	ZA-Poke	371	
+372	Shelgon	model-listed	0372/regular.glb	ZA-Poke	372	
+373	Salamence	model-listed	0373/regular.glb	ZA-Poke	373	
+374	Beldum	model-listed	0374/regular.glb	ZA-Poke	374	
+375	Metang	model-listed	0375/regular.glb	ZA-Poke	375	
+376	Metagross	model-listed	0376/regular.glb	ZA-Poke	376	
+377	Regirock	model-listed	0377/regular.glb	SV-PokeDLC2	377	
+378	Regice	model-listed	0378/regular.glb	SV-PokeDLC2	378	
+379	Registeel	model-listed	0379/regular.glb	SV-PokeDLC2	379	
+380	Latias	model-listed	0380/regular.glb	ZA-PokeDLC	380	
+381	Latios	model-listed	0381/regular.glb	ZA-PokeDLC	381	
+382	Kyogre	model-listed	0382/regular.glb	ZA-PokeDLC	382	
+383	Groudon	model-listed	0383/regular.glb	ZA-PokeDLC	383	
+384	Rayquaza	model-listed	0384/regular.glb	ZA-PokeDLC	384	
+385	Jirachi	missing				
+386	Deoxys	missing				
+387	Turtwig	model-listed	0387/regular.glb	LA-Poke	387	
+388	Grotle	model-listed	0388/regular.glb	LA-Poke	388	
+389	Torterra	model-listed	0389/regular.glb	LA-Poke	389	
+390	Chimchar	model-listed	0390/regular.glb	LA-Poke	390	
+391	Monferno	model-listed	0391/regular.glb	LA-Poke	391	
+392	Infernape	model-listed	0392/regular.glb	LA-Poke	392	
+393	Piplup	model-listed	0393/regular.glb	LA-Poke	393	
+394	Prinplup	model-listed	0394/regular.glb	LA-Poke	394	
+395	Empoleon	model-listed	0395/regular.glb	LA-Poke	395	
+396	Starly	model-listed	0396/regular.glb	ZA-PokeDLC	396	
+397	Staravia	model-listed	0397/regular.glb	ZA-PokeDLC	397	
+398	Staraptor	model-listed	0398/regular.glb	ZA-PokeDLC	398	
+399	Bidoof	model-listed	0399/regular.glb	LA-Poke	399	
+400	Bibarel	model-listed	0400/regular.glb	LA-Poke	400	
+401	Kricketot	model-listed	0401/regular.glb	LA-Poke	401	
+402	Kricketune	model-listed	0402/regular.glb	LA-Poke	402	
+403	Shinx	model-listed	0403/regular.glb	LA-Poke	403	
+404	Luxio	model-listed	0404/regular.glb	LA-Poke	404	
+405	Luxray	model-listed	0405/regular.glb	LA-Poke	405	
+406	Budew	model-listed	0406/regular.glb	ZA-Poke	406	
+407	Roserade	model-listed	0407/regular.glb	ZA-Poke	407	
+408	Cranidos	model-listed	0408/regular.glb	LA-Poke	408	
+409	Rampardos	model-listed	0409/regular.glb	LA-Poke	409	
+410	Shieldon	model-listed	0410/regular.glb	LA-Poke	410	
+411	Bastiodon	model-listed	0411/regular.glb	LA-Poke	411	
+412	Burmy	missing				
+413	Wormadam	missing				
+414	Mothim	model-listed	0414/regular.glb	LA-Poke	414	
+415	Combee	model-listed	0415/regular.glb	LA-Poke	415	
+416	Vespiquen	model-listed	0416/regular.glb	LA-Poke	416	
+417	Pachirisu	model-listed	0417/regular.glb	LA-Poke	417	
+418	Buizel	model-listed	0418/regular.glb	LA-Poke	418	
+419	Floatzel	model-listed	0419/regular.glb	LA-Poke	419	
+420	Cherubi	model-listed	0420/regular.glb	LA-Poke	420	
+421	Cherrim	missing				
+422	Shellos	missing				
+423	Gastrodon	missing				
+424	Ambipom	model-listed	0424/regular.glb	LA-Poke	424	
+425	Drifloon	model-listed	0425/regular.glb	LA-Poke	425	
+426	Drifblim	model-listed	0426/regular.glb	LA-Poke	426	
+427	Buneary	model-listed	0427/regular.glb	ZA-Poke	427	
+428	Lopunny	model-listed	0428/regular.glb	ZA-Poke	428	
+429	Mismagius	model-listed	0429/regular.glb	LA-Poke	429	
+430	Honchkrow	model-listed	0430/regular.glb	LA-Poke	430	
+431	Glameow	model-listed	0431/regular.glb	LA-Poke	431	
+432	Purugly	model-listed	0432/regular.glb	LA-Poke	432	
+433	Chingling	model-listed	0433/regular.glb	ZA-PokeDLC	433	
+434	Stunky	model-listed	0434/regular.glb	LA-Poke	434	
+435	Skuntank	model-listed	0435/regular.glb	LA-Poke	435	
+436	Bronzor	model-listed	0436/regular.glb	LA-Poke	436	
+437	Bronzong	model-listed	0437/regular.glb	LA-Poke	437	
+438	Bonsly	model-listed	0438/regular.glb	LA-Poke	438	
+439	Mime Jr.	model-listed	0439/regular.glb	ZA-PokeDLC	439	
+440	Happiny	model-listed	0440/regular.glb	LA-Poke	440	
+441	Chatot	model-listed	0441/regular.glb	LA-Poke	441	
+442	Spiritomb	model-listed	0442/regular.glb	LA-Poke	442	
+443	Gible	model-listed	0443/regular.glb	ZA-Poke	443	
+444	Gabite	model-listed	0444/regular.glb	ZA-Poke	444	
+445	Garchomp	model-listed	0445/regular.glb	ZA-Poke	445	
+446	Munchlax	model-listed	0446/regular.glb	LA-Poke	446	
+447	Riolu	model-listed	0447/regular.glb	ZA-Poke	447	
+448	Lucario	model-listed	0448/regular.glb	ZA-Poke	448	
+449	Hippopotas	model-listed	0449/regular.glb	ZA-Poke	449	
+450	Hippowdon	model-listed	0450/regular.glb	ZA-Poke	450	
+451	Skorupi	model-listed	0451/regular.glb	LA-Poke	451	
+452	Drapion	model-listed	0452/regular.glb	LA-Poke	452	
+453	Croagunk	model-listed	0453/regular.glb	LA-Poke	453	
+454	Toxicroak	model-listed	0454/regular.glb	LA-Poke	454	
+455	Carnivine	model-listed	0455/regular.glb	LA-Poke	455	
+456	Finneon	model-listed	0456/regular.glb	LA-Poke	456	
+457	Lumineon	model-listed	0457/regular.glb	LA-Poke	457	
+458	Mantyke	model-listed	0458/regular.glb	LA-Poke	458	
+459	Snover	model-listed	0459/regular.glb	ZA-Poke	459	
+460	Abomasnow	model-listed	0460/regular.glb	ZA-Poke	460	
+461	Weavile	model-listed	0461/regular.glb	LA-Poke	461	
+462	Magnezone	model-listed	0462/regular.glb	LA-Poke	462	
+463	Lickilicky	model-listed	0463/regular.glb	LA-Poke	463	
+464	Rhyperior	model-listed	0464/regular.glb	LA-Poke	464	
+465	Tangrowth	model-listed	0465/regular.glb	LA-Poke	465	
+466	Electivire	model-listed	0466/regular.glb	LA-Poke	466	
+467	Magmortar	model-listed	0467/regular.glb	LA-Poke	467	
+468	Togekiss	model-listed	0468/regular.glb	LA-Poke	468	
+469	Yanmega	model-listed	0469/regular.glb	LA-Poke	469	
+470	Leafeon	model-listed	0470/regular.glb	ZA-Poke	470	
+471	Glaceon	model-listed	0471/regular.glb	ZA-Poke	471	
+472	Gliscor	model-listed	0472/regular.glb	LA-Poke	472	
+473	Mamoswine	model-listed	0473/regular.glb	LA-Poke	473	
+474	Porygon-Z	model-listed	0474/regular.glb	ZA-PokeDLC	474	
+475	Gallade	model-listed	0475/regular.glb	ZA-Poke	475	
+476	Probopass	model-listed	0476/regular.glb	LA-Poke	476	
+477	Dusknoir	model-listed	0477/regular.glb	LA-Poke	477	
+478	Froslass	model-listed	0478/regular.glb	ZA-Poke	478	
+479	Rotom	missing				
+480	Uxie	model-listed	0480/regular.glb	LA-Poke	480	
+481	Mesprit	model-listed	0481/regular.glb	LA-Poke	481	
+482	Azelf	model-listed	0482/regular.glb	LA-Poke	482	
+483	Dialga	model-listed	0483/regular.glb	SwSh-PokeGen4-5	483	
+484	Palkia	model-listed	0484/regular.glb	SwSh-PokeGen4-5	484	
+485	Heatran	model-listed	0485/regular.glb	ZA-PokeDLC	485	
+486	Regigigas	model-listed	0486/regular.glb	LA-Poke	486	
+487	Giratina	missing				
+488	Cresselia	model-listed	0488/regular.glb	LA-Poke	488	
+489	Phione	model-listed	0489/regular.glb	LA-Poke	489	
+490	Manaphy	model-listed	0490/regular.glb	LA-Poke	490	
+491	Darkrai	model-listed	0491/regular.glb	ZA-PokeDLC	491	
+492	Shaymin	missing				
+493	Arceus	missing				
+494	Victini	model-listed	0494/regular.glb	SwSh-PokeGen4-5	494	
+495	Snivy	model-listed	0495/regular.glb	SV-PokeDLC2	495	
+496	Servine	model-listed	0496/regular.glb	SV-PokeDLC2	496	
+497	Serperior	model-listed	0497/regular.glb	SV-PokeDLC2	497	
+498	Tepig	model-listed	0498/regular.glb	ZA-Poke	498	
+499	Pignite	model-listed	0499/regular.glb	ZA-Poke	499	
+500	Emboar	model-listed	0500/regular.glb	ZA-Poke	500	
+501	Oshawott	model-listed	0501/regular.glb	LA-Poke	501	
+502	Dewott	model-listed	0502/regular.glb	LA-Poke	502	
+503	Samurott	model-listed	0503/regular.glb	SV-Poke	503	
+504	Patrat	model-listed	0504/regular.glb	ZA-Poke	504	
+505	Watchog	model-listed	0505/regular.glb	ZA-Poke	505	
+506	Lillipup	model-listed	0506/regular.glb	SwSh-PokeGen4-5	506	
+507	Herdier	model-listed	0507/regular.glb	SwSh-PokeGen4-5	507	
+508	Stoutland	model-listed	0508/regular.glb	SwSh-PokeGen4-5	508	
+509	Purrloin	model-listed	0509/regular.glb	ZA-PokeDLC	509	
+510	Liepard	model-listed	0510/regular.glb	ZA-PokeDLC	510	
+511	Pansage	model-listed	0511/regular.glb	ZA-Poke	511	
+512	Simisage	model-listed	0512/regular.glb	ZA-Poke	512	
+513	Pansear	model-listed	0513/regular.glb	ZA-Poke	513	
+514	Simisear	model-listed	0514/regular.glb	ZA-Poke	514	
+515	Panpour	model-listed	0515/regular.glb	ZA-Poke	515	
+516	Simipour	model-listed	0516/regular.glb	ZA-Poke	516	
+517	Munna	model-listed	0517/regular.glb	ZA-PokeDLC	517	
+518	Musharna	model-listed	0518/regular.glb	ZA-PokeDLC	518	
+519	Pidove	model-listed	0519/regular.glb	SwSh-PokeGen4-5	519	
+520	Tranquill	model-listed	0520/regular.glb	SwSh-PokeGen4-5	520	
+521	Unfezant	model-listed	0521/regular.glb	SwSh-PokeGen4-5	521	
+522	Blitzle	model-listed	0522/regular.glb	SV-PokeDLC2	522	
+523	Zebstrika	model-listed	0523/regular.glb	SV-PokeDLC2	523	
+524	Roggenrola	model-listed	0524/regular.glb	SwSh-PokeGen4-5	524	
+525	Boldore	model-listed	0525/regular.glb	SwSh-PokeGen4-5	525	
+526	Gigalith	model-listed	0526/regular.glb	SwSh-PokeGen4-5	526	
+527	Woobat	model-listed	0527/regular.glb	SwSh-PokeGen4-5	527	
+528	Swoobat	model-listed	0528/regular.glb	SwSh-PokeGen4-5	528	
+529	Drilbur	model-listed	0529/regular.glb	ZA-Poke	529	
+530	Excadrill	model-listed	0530/regular.glb	ZA-Poke	530	
+531	Audino	model-listed	0531/regular.glb	ZA-Poke	531	
+532	Timburr	model-listed	0532/regular.glb	SwSh-PokeGen4-5	532	
+533	Gurdurr	model-listed	0533/regular.glb	SwSh-PokeGen4-5	533	
+534	Conkeldurr	model-listed	0534/regular.glb	SwSh-PokeGen4-5	534	
+535	Tympole	model-listed	0535/regular.glb	SwSh-PokeGen4-5	535	
+536	Palpitoad	model-listed	0536/regular.glb	SwSh-PokeGen4-5	536	
+537	Seismitoad	model-listed	0537/regular.glb	SwSh-PokeGen4-5	537	
+538	Throh	model-listed	0538/regular.glb	ZA-PokeDLC	538	
+539	Sawk	model-listed	0539/regular.glb	ZA-PokeDLC	539	
+540	Sewaddle	missing				
+541	Swadloon	missing				
+542	Leavanny	missing				
+543	Venipede	model-listed	0543/regular.glb	ZA-Poke	543	
+544	Whirlipede	model-listed	0544/regular.glb	ZA-Poke	544	
+545	Scolipede	model-listed	0545/regular.glb	ZA-Poke	545	
+546	Cottonee	model-listed	0546/regular.glb	SV-PokeDLC2	546	
+547	Whimsicott	model-listed	0547/regular.glb	SV-PokeDLC2	547	
+548	Petilil	model-listed	0548/regular.glb	LA-Poke	548	
+549	Lilligant	model-listed	0549/regular.glb	SV-Poke	549	
+550	Basculin	missing				
+551	Sandile	model-listed	0551/regular.glb	ZA-Poke	551	
+552	Krokorok	model-listed	0552/regular.glb	ZA-Poke	552	
+553	Krookodile	model-listed	0553/regular.glb	ZA-Poke	553	
+554	Darumaka	model-listed	0554/regular.glb	SwSh-PokeGen4-5	554	
+555	Darmanitan	missing				
+556	Maractus	model-listed	0556/regular.glb	SwSh-PokeGen4-5	556	
+557	Dwebble	model-listed	0557/regular.glb	SwSh-PokeGen4-5	557	
+558	Crustle	model-listed	0558/regular.glb	SwSh-PokeGen4-5	558	
+559	Scraggy	model-listed	0559/regular.glb	ZA-Poke	559	
+560	Scrafty	model-listed	0560/regular.glb	ZA-Poke	560	
+561	Sigilyph	model-listed	0561/regular.glb	SwSh-PokeGen4-5	561	
+562	Yamask	model-listed	0562/regular.glb	ZA-PokeDLC	562	
+563	Cofagrigus	model-listed	0563/regular.glb	ZA-PokeDLC	563	
+564	Tirtouga	model-listed	0564/regular.glb	SwSh-PokeGen4-5	564	
+565	Carracosta	model-listed	0565/regular.glb	SwSh-PokeGen4-5	565	
+566	Archen	model-listed	0566/regular.glb	SwSh-PokeGen4-5	566	
+567	Archeops	model-listed	0567/regular.glb	SwSh-PokeGen4-5	567	
+568	Trubbish	model-listed	0568/regular.glb	ZA-Poke	568	
+569	Garbodor	model-listed	0569/regular.glb	ZA-Poke	569	
+570	Zorua	model-listed	0570/regular.glb	SV-Poke	570	
+571	Zoroark	model-listed	0571/regular.glb	SV-Poke	571	
+572	Minccino	model-listed	0572/regular.glb	SV-PokeDLC2	572	
+573	Cinccino	model-listed	0573/regular.glb	SV-PokeDLC2	573	
+574	Gothita	model-listed	0574/regular.glb	SV-Poke	574	
+575	Gothorita	model-listed	0575/regular.glb	SV-Poke	575	
+576	Gothitelle	model-listed	0576/regular.glb	SV-Poke	576	
+577	Solosis	model-listed	0577/regular.glb	SV-PokeDLC2	577	
+578	Duosion	model-listed	0578/regular.glb	SV-PokeDLC2	578	
+579	Reuniclus	model-listed	0579/regular.glb	SV-PokeDLC2	579	
+580	Ducklett	missing				
+581	Swanna	missing				
+582	Vanillite	model-listed	0582/regular.glb	ZA-Poke	582	
+583	Vanillish	model-listed	0583/regular.glb	ZA-Poke	583	
+584	Vanilluxe	model-listed	0584/regular.glb	ZA-Poke	584	
+585	Deerling	missing				
+586	Sawsbuck	missing				
+587	Emolga	model-listed	0587/regular.glb	ZA-Poke	587	
+588	Karrablast	model-listed	0588/regular.glb	SwSh-PokeGen4-5	588	
+589	Escavalier	model-listed	0589/regular.glb	SwSh-PokeGen4-5	589	
+590	Foongus	model-listed	0590/regular.glb	ZA-PokeDLC	590	
+591	Amoonguss	model-listed	0591/regular.glb	ZA-PokeDLC	591	
+592	Frillish	model-listed	0592/regular.glb	SwSh-PokeGen4-5	592	
+593	Jellicent	model-listed	0593/regular.glb	SwSh-PokeGen4-5	593	
+594	Alomomola	model-listed	0594/regular.glb	SV-Poke	594	
+595	Joltik	model-listed	0595/regular.glb	SV-PokeDLC2	595	
+596	Galvantula	model-listed	0596/regular.glb	SV-PokeDLC2	596	
+597	Ferroseed	model-listed	0597/regular.glb	SwSh-PokeGen4-5	597	
+598	Ferrothorn	model-listed	0598/regular.glb	SwSh-PokeGen4-5	598	
+599	Klink	model-listed	0599/regular.glb	SwSh-PokeGen4-5	599	
+600	Klang	model-listed	0600/regular.glb	SwSh-PokeGen4-5	600	
+601	Klinklang	model-listed	0601/regular.glb	SwSh-PokeGen4-5	601	
+602	Tynamo	model-listed	0602/regular.glb	ZA-Poke	602	
+603	Eelektrik	model-listed	0603/regular.glb	ZA-Poke	603	
+604	Eelektross	model-listed	0604/regular.glb	ZA-Poke	604	
+605	Elgyem	model-listed	0605/regular.glb	SwSh-PokeGen4-5	605	
+606	Beheeyem	model-listed	0606/regular.glb	SwSh-PokeGen4-5	606	
+607	Litwick	model-listed	0607/regular.glb	ZA-Poke	607	
+608	Lampent	model-listed	0608/regular.glb	ZA-Poke	608	
+609	Chandelure	model-listed	0609/regular.glb	ZA-Poke	609	
+610	Axew	model-listed	0610/regular.glb	SV-Poke	610	
+611	Fraxure	model-listed	0611/regular.glb	SV-Poke	611	
+612	Haxorus	model-listed	0612/regular.glb	SV-Poke	612	
+613	Cubchoo	model-listed	0613/regular.glb	SV-Poke	613	
+614	Beartic	model-listed	0614/regular.glb	SV-Poke	614	
+615	Cryogonal	model-listed	0615/regular.glb	ZA-PokeDLC	615	
+616	Shelmet	model-listed	0616/regular.glb	SwSh-PokeGen4-5	616	
+617	Accelgor	model-listed	0617/regular.glb	SwSh-PokeGen4-5	617	
+618	Stunfisk	model-listed	0618/regular.glb	ZA-Poke	618	
+619	Mienfoo	model-listed	0619/regular.glb	SwSh-PokeGen4-5	619	
+620	Mienshao	model-listed	0620/regular.glb	SwSh-PokeGen4-5	620	
+621	Druddigon	model-listed	0621/regular.glb	SwSh-PokeGen4-5	621	
+622	Golett	model-listed	0622/regular.glb	ZA-PokeDLC	622	
+623	Golurk	model-listed	0623/regular.glb	ZA-PokeDLC	623	
+624	Pawniard	model-listed	0624/regular.glb	SV-Poke	624	
+625	Bisharp	model-listed	0625/regular.glb	SV-Poke	625	
+626	Bouffalant	model-listed	0626/regular.glb	SwSh-PokeGen4-5	626	
+627	Rufflet	model-listed	0627/regular.glb	LA-Poke	627	
+628	Braviary	model-listed	0628/regular.glb	SV-Poke	628	
+629	Vullaby	model-listed	0629/regular.glb	SwSh-PokeGen4-5	629	
+630	Mandibuzz	model-listed	0630/regular.glb	SwSh-PokeGen4-5	630	
+631	Heatmor	model-listed	0631/regular.glb	SwSh-PokeGen4-5	631	
+632	Durant	model-listed	0632/regular.glb	SwSh-PokeGen4-5	632	
+633	Deino	model-listed	0633/regular.glb	SV-Poke	633	
+634	Zweilous	model-listed	0634/regular.glb	SV-Poke	634	
+635	Hydreigon	model-listed	0635/regular.glb	SV-Poke	635	
+636	Larvesta	model-listed	0636/regular.glb	SV-Poke	636	
+637	Volcarona	model-listed	0637/regular.glb	SV-Poke	637	
+638	Cobalion	model-listed	0638/regular.glb	ZA-PokeDLC	638	
+639	Terrakion	model-listed	0639/regular.glb	ZA-PokeDLC	639	
+640	Virizion	model-listed	0640/regular.glb	ZA-PokeDLC	640	
+641	Tornadus	missing				
+642	Thundurus	missing				
+643	Reshiram	model-listed	0643/regular.glb	SV-PokeDLC2	643	
+644	Zekrom	model-listed	0644/regular.glb	SV-PokeDLC2	644	
+645	Landorus	missing				
+646	Kyurem	missing				
+647	Keldeo	missing				
+648	Meloetta	missing				
+649	Genesect	missing				
+650	Chespin	missing				
+651	Quilladin	missing				
+652	Chesnaught	missing				
+653	Fennekin	missing				
+654	Braixen	missing				
+655	Delphox	missing				
+656	Froakie	missing				
+657	Frogadier	missing				
+658	Greninja	missing				
+659	Bunnelby	missing				
+660	Diggersby	missing				
+661	Fletchling	missing				
+662	Fletchinder	missing				
+663	Talonflame	missing				
+664	Scatterbug	missing				
+665	Spewpa	missing				
+666	Vivillon	missing				
+667	Litleo	missing				
+668	Pyroar	missing				
+669	Flabébé	missing				
+670	Floette	missing				
+671	Florges	missing				
+672	Skiddo	missing				
+673	Gogoat	missing				
+674	Pancham	missing				
+675	Pangoro	missing				
+676	Furfrou	missing				
+677	Espurr	missing				
+678	Meowstic	missing				
+679	Honedge	missing				
+680	Doublade	missing				
+681	Aegislash	missing				
+682	Spritzee	missing				
+683	Aromatisse	missing				
+684	Swirlix	missing				
+685	Slurpuff	missing				
+686	Inkay	missing				
+687	Malamar	missing				
+688	Binacle	missing				
+689	Barbaracle	missing				
+690	Skrelp	missing				
+691	Dragalge	missing				
+692	Clauncher	missing				
+693	Clawitzer	missing				
+694	Helioptile	missing				
+695	Heliolisk	missing				
+696	Tyrunt	missing				
+697	Tyrantrum	missing				
+698	Amaura	missing				
+699	Aurorus	missing				
+700	Sylveon	missing				
+701	Hawlucha	missing				
+702	Dedenne	model-listed	0702/regular.glb	ZA-Poke	702	
+703	Carbink	model-listed	0703/regular.glb	ZA-Poke	703	
+704	Goomy	model-listed	0704/regular.glb	ZA-Poke	704	
+705	Sliggoo	model-listed	0705/regular.glb	ZA-Poke	705	
+706	Goodra	model-listed	0706/regular.glb	ZA-Poke	706	
+707	Klefki	model-listed	0707/regular.glb	ZA-Poke	707	
+708	Phantump	missing				
+709	Trevenant	model-listed	0709/regular.glb	ZA-Poke	709	
+710	Pumpkaboo	model-listed	0710/regular.glb	ZA-Poke	710	
+711	Gourgeist	model-listed	0711/regular.glb	ZA-Poke	711	
+712	Bergmite	model-listed	0712/regular.glb	ZA-Poke	712	
+713	Avalugg	missing				
+714	Noibat	missing				
+715	Noivern	missing				
+716	Xerneas	model-listed	0716/regular.glb	ZA-Poke	716	
+717	Yveltal	model-listed	0717/regular.glb	ZA-Poke	717	
+718	Zygarde	model-listed	0718/regular.glb	ZA-Poke	718	
+719	Diancie	model-listed	0719/regular.glb	ZA-Poke	719	
+720	Hoopa	model-listed	0720/regular.glb	ZA-Poke	720	
+721	Volcanion	model-listed	0721/regular.glb	ZA-Poke	721	
+722	Rowlet	model-listed	0722/regular.glb	ZA-Poke	722	
+723	Dartrix	model-listed	0723/regular.glb	ZA-Poke	723	
+724	Decidueye	model-listed	0724/regular.glb	ZA-Poke	724	
+725	Litten	model-listed	0725/regular.glb	SV-PokeDLC2	844	844
+726	Torracat	model-listed	0726/regular.glb	ZA-Poke	726	
+727	Incineroar	model-listed	0727/regular.glb	ZA-Poke	727	
+728	Popplio	model-listed	0728/regular.glb	ZA-Poke	728	
+729	Brionne	model-listed	0729/regular.glb	ZA-Poke	729	
+730	Primarina	model-listed	0730/regular.glb	ZA-Poke	730	
+731	Pikipek	model-listed	0731/regular.glb	ZA-Poke	731	
+732	Trumbeak	model-listed	0732/regular.glb	ZA-Poke	732	
+733	Toucannon	model-listed	0733/regular.glb	ZA-Poke	733	
+734	Yungoos	model-listed	0734/regular.glb	ZA-Poke	734	
+735	Gumshoos	model-listed	0735/regular.glb	SV-Poke	827	827
+736	Grubbin	missing				
+737	Charjabug	model-listed	0737/regular.glb	ZA-Poke	737	
+738	Vikavolt	model-listed	0738/regular.glb	ZA-Poke	738	
+739	Crabrawler	model-listed	0739/regular.glb	ZA-Poke	739	
+740	Crabominable	model-listed	0740/regular.glb	ZA-Poke	740	
+741	Oricorio	model-listed	0741/regular.glb	ZA-Poke	741	
+742	Cutiefly	model-listed	0742/regular.glb	ZA-Poke	742	
+743	Ribombee	model-listed	0743/regular.glb	ZA-Poke	743	
+744	Rockruff	model-listed	0744/regular.glb	ZA-Poke	744	
+745	Lycanroc	model-listed	0745/regular.glb	ZA-Poke	745	
+746	Wishiwashi	missing				
+747	Mareanie	model-listed	0747/regular.glb	ZA-Poke	747	
+748	Toxapex	model-listed	0748/regular.glb	ZA-Poke	748	
+749	Mudbray	model-listed	0749/regular.glb	ZA-Poke	749	
+750	Mudsdale	model-listed	0750/regular.glb	SV-Poke	840	840
+751	Dewpider	model-listed	0751/regular.glb	ZA-Poke	751	
+752	Araquanid	model-listed	0752/regular.glb	ZA-Poke	752	
+753	Fomantis	model-listed	0753/regular.glb	ZA-Poke	753	
+754	Lurantis	model-listed	0754/regular.glb	ZA-Poke	754	
+755	Morelull	model-listed	0755/regular.glb	ZA-Poke	755	
+756	Shiinotic	model-listed	0756/regular.glb	ZA-Poke	756	
+757	Salandit	model-listed	0757/regular.glb	ZA-Poke	757	
+758	Salazzle	model-listed	0758/regular.glb	ZA-Poke	758	
+759	Stufful	model-listed	0759/regular.glb	ZA-Poke	759	
+760	Bewear	model-listed	0760/regular.glb	ZA-Poke	760	
+761	Bounsweet	model-listed	0761/regular.glb	ZA-Poke	761	
+762	Steenee	model-listed	0762/regular.glb	ZA-Poke	762	
+763	Tsareena	model-listed	0763/regular.glb	ZA-Poke	763	
+764	Comfey	model-listed	0764/regular.glb	ZA-Poke	764	
+765	Oranguru	model-listed	0765/regular.glb	ZA-Poke	765	
+766	Passimian	model-listed	0766/regular.glb	ZA-Poke	766	
+767	Wimpod	model-listed	0767/regular.glb	ZA-Poke	767	
+768	Golisopod	model-listed	0768/regular.glb	ZA-Poke	768	
+769	Sandygast	model-listed	0769/regular.glb	ZA-Poke	769	
+770	Palossand	missing				
+771	Pyukumuku	missing				
+772	Type: Null	model-listed	0772/regular.glb	ZA-Poke	772	
+773	Silvally	model-listed	0773/regular.glb	ZA-Poke	773	
+774	Minior	missing				
+775	Komala	model-listed	0775/regular.glb	SV-Poke	811	811
+776	Turtonator	missing				
+777	Togedemaru	missing				
+778	Mimikyu	missing				
+779	Bruxish	model-listed	0779/regular.glb	SV-Poke	855	855
+780	Drampa	missing				
+781	Dhelmise	missing				
+782	Jangmo-o	missing				
+783	Hakamo-o	missing				
+784	Kommo-o	missing				
+785	Tapu Koko	missing				
+786	Tapu Lele	missing				
+787	Tapu Bulu	missing				
+788	Tapu Fini	missing				
+789	Cosmog	model-listed	0789/regular.glb	SV-PokeDLC2	871	871
+790	Cosmoem	model-listed	0790/regular.glb	SV-PokeDLC2	872	872
+791	Solgaleo	model-listed	0791/regular.glb	SV-PokeDLC2	873	873
+792	Lunala	model-listed	0792/regular.glb	SV-PokeDLC2	874	874
+793	Nihilego	missing				
+794	Buzzwole	missing				
+795	Pheromosa	missing				
+796	Xurkitree	missing				
+797	Celesteela	missing				
+798	Kartana	missing				
+799	Guzzlord	missing				
+800	Necrozma	missing				
+801	Magearna	missing		SV-Poke	801	
+802	Marshadow	missing		SV-Poke	802	
+803	Poipole	missing				
+804	Naganadel	missing				
+805	Stakataka	missing		SV-Poke	805	
+806	Blacephalon	missing		SV-Poke	806	
+807	Zeraora	missing		SV-PokeDLC2	807	
+808	Meltan	missing		SV-PokeDLC2	808	
+809	Melmetal	missing		SV-PokeDLC2	809	
+810	Grookey	model-listed	0810/regular.glb	SV-Poke	948	948
+811	Thwackey	model-listed	0811/regular.glb	SV-Poke	949	949
+812	Rillaboom	model-listed	0812/regular.glb	SV-Poke	950	950
+813	Scorbunny	model-listed	0813/regular.glb	SV-Poke	954	954
+814	Raboot	model-listed	0814/regular.glb	SV-Poke	955	955
+815	Cinderace	model-listed	0815/regular.glb	SV-Poke	956	956
+816	Sobble	model-listed	0816/regular.glb	SwSh-PokeGen8	951	
+817	Drizzile	model-listed	0817/regular.glb	SwSh-PokeGen8	952	
+818	Inteleon	model-listed	0818/regular.glb	SwSh-PokeGen8	953	
+819	Skwovet	model-listed	0819/regular.glb	SwSh-PokeGen8	909	
+820	Greedent	model-listed	0820/regular.glb	SwSh-PokeGen8	910	
+821	Rookidee	model-listed	0821/regular.glb	SwSh-PokeGen8	918	
+822	Corvisquire	model-listed	0822/regular.glb	ZA-PokeDLC	822	
+823	Corviknight	model-listed	0823/regular.glb	ZA-PokeDLC	823	
+824	Blipbug	model-listed	0824/regular.glb	SwSh-PokeGen8	930	
+825	Dottler	model-listed	0825/regular.glb	SwSh-PokeGen8	931	
+826	Orbeetle	missing		SV-Poke	826	
+827	Nickit	missing		SV-Poke	827	
+828	Thievul	missing		SV-Poke	828	
+829	Gossifleur	model-listed	0829/regular.glb	SwSh-PokeGen8	905	
+830	Eldegoss	model-listed	0830/regular.glb	SwSh-PokeGen8	906	
+831	Wooloo	model-listed	0831/regular.glb	SwSh-PokeGen8	911	
+832	Dubwool	model-listed	0832/regular.glb	SwSh-PokeGen8	912	
+833	Chewtle	model-listed	0833/regular.glb	SwSh-PokeGen8	903	
+834	Drednaw	model-listed	0834/regular.glb	SwSh-PokeGen8	904	
+835	Yamper	model-listed	0835/regular.glb	SwSh-PokeGen8	907	
+836	Boltund	model-listed	0836/regular.glb	SwSh-PokeGen8	908	
+837	Rolycoly	model-listed	0837/regular.glb	SwSh-PokeGen8	933	
+838	Carkol	model-listed	0838/regular.glb	SwSh-PokeGen8	934	
+839	Coalossal	model-listed	0839/regular.glb	SV-Poke	935	935
+840	Applin	model-listed	0840/regular.glb	SV-Poke	966	966
+841	Flapple	model-listed	0841/regular.glb	LA-Poke	841	
+842	Appletun	model-listed	0842/regular.glb	LA-Poke	842	
+843	Silicobra	model-listed	0843/regular.glb	SV-Poke	936	936
+844	Sandaconda	model-listed	0844/regular.glb	SV-Poke	937	937
+845	Cramorant	missing		SV-PokeDLC2	845	
+846	Arrokuda	missing		SV-PokeDLC2	846	
+847	Barraskewda	missing		SV-PokeDLC2	847	
+848	Toxel	missing		SV-PokeDLC2	848	
+849	Toxtricity	missing		SV-PokeDLC2	849	
+850	Sizzlipede	missing		SV-PokeDLC2	850	
+851	Centiskorch	missing		SV-PokeDLC2	851	
+852	Clobbopus	model-listed	0852/regular.glb	SwSh-PokeGen8	964	
+853	Grapploct	model-listed	0853/regular.glb	SwSh-PokeGen8	965	
+854	Sinistea	missing				
+855	Polteageist	missing		SV-Poke	855	
+856	Hatenna	model-listed	0856/regular.glb	ZA-Poke	856	
+857	Hattrem	model-listed	0857/regular.glb	SwSh-PokeGen8	970	
+858	Hatterene	model-listed	0858/regular.glb	SwSh-PokeGen8	971	
+859	Impidimp	model-listed	0859/regular.glb	ZA-PokeDLC	859	
+860	Morgrem	model-listed	0860/regular.glb	ZA-PokeDLC	860	
+861	Grimmsnarl	model-listed	0861/regular.glb	SwSh-PokeGen8	959	
+862	Obstagoon	missing				
+863	Perrserker	missing		SV-PokeDLC2	863	
+864	Cursola	missing				
+865	Sirfetch’d	missing				
+866	Mr. Rime	model-listed	0866/regular.glb	ZA-PokeDLC	866	
+867	Runerigus	model-listed	0867/regular.glb	ZA-PokeDLC	867	
+868	Milcery	model-listed	0868/regular.glb	SV-PokeDLC2	924	924
+869	Alcremie	missing		SV-Poke	869	
+870	Falinks	model-listed	0870/regular.glb	SwSh-PokeGen8	923	
+871	Pincurchin	model-listed	0871/regular.glb	SV-Poke	944	944
+872	Snom	model-listed	0872/regular.glb	SV-Poke	945	945
+873	Frosmoth	model-listed	0873/regular.glb	SV-Poke	946	946
+874	Stonjourner	model-listed	0874/regular.glb	SV-Poke	974	974
+875	Eiscue	missing				
+876	Indeedee	model-listed	0876/regular.glb	SwSh-PokeGen8	942	
+877	Morpeko	missing				
+878	Cufant	model-listed	0878/regular.glb	SwSh-PokeGen8	926	
+879	Copperajah	model-listed	0879/regular.glb	SwSh-PokeGen8	927	
+880	Dracozolt	model-listed	0880/regular.glb	SwSh-PokeGen8	960	
+881	Arctozolt	model-listed	0881/regular.glb	SwSh-PokeGen8	961	
+882	Dracovish	model-listed	0882/regular.glb	SwSh-PokeGen8	962	
+883	Arctovish	model-listed	0883/regular.glb	ZA-PokeDLC	883	
+884	Duraludon	model-listed	0884/regular.glb	SwSh-PokeGen8	929	
+885	Dreepy	model-listed	0885/regular.glb	SwSh-PokeGen8	976	
+886	Drakloak	model-listed	0886/regular.glb	SwSh-PokeGen8	977	
+887	Dragapult	model-listed	0887/regular.glb	SwSh-PokeGen8	978	
+888	Zacian	model-listed	0888/regular.glb	ZA-PokeDLC	888	
+889	Zamazenta	missing				
+890	Eternatus	model-listed	0890/regular.glb	SwSh-PokeGen8	940	
+891	Kubfu	model-listed	0891/regular.glb	ZA-PokeDLC	891	
+892	Urshifu	model-listed	0892/regular.glb	ZA-PokeDLC	892	
+893	Zarude	missing				
+894	Regieleki	model-listed	0894/regular.glb	SwSh-PokeGen8	989	
+895	Regidrago	model-listed	0895/regular.glb	SwSh-PokeGen8	990	
+896	Glastrier	model-listed	0896/regular.glb	SwSh-PokeGen8	984	
+897	Spectrier	model-listed	0897/regular.glb	SwSh-PokeGen8	985	
+898	Calyrex	missing				
+899	Wyrdeer	model-listed	0899/regular.glb	LA-Poke	1001	1001
+900	Kleavor	model-listed	0900/regular.glb	ZA-PokeDLC	1002	1002
+901	Ursaluna	model-listed	0901/regular.glb	ZA-PokeDLC	901	
+902	Basculegion	model-listed	0902/regular.glb	ZA-PokeDLC	902	
+903	Sneasler	missing		SV-Poke	903	
+904	Overqwil	missing		SV-Poke	904	
+905	Enamorus	missing				
+906	Sprigatito	model-listed	0906/regular.glb	sv	1010	
+907	Floragato	model-listed	0907/regular.glb	sv	1011	
+908	Meowscarada	model-listed	0908/regular.glb	sv	1012	
+909	Fuecoco	model-listed	0909/regular.glb	sv	1013	
+910	Crocalor	model-listed	0910/regular.glb	sv	1014	
+911	Skeledirge	model-listed	0911/regular.glb	sv	1015	
+912	Quaxly	model-listed	0912/regular.glb	sv	1016	
+913	Quaxwell	model-listed	0913/regular.glb	sv	1017	
+914	Quaquaval	model-listed	0914/regular.glb	sv	1018	
+915	Lechonk	model-listed	0915/regular.glb	sv	1019	
+916	Oinkologne	model-listed	0916/regular.glb	sv	1020	
+917	Tarountula	model-listed	0917/regular.glb	sv	1022	
+918	Spidops	model-listed	0918/regular.glb	ZA-PokeDLC	918	
+919	Nymble	model-listed	0919/regular.glb	ZA-PokeDLC	919	
+920	Lokix	model-listed	0920/regular.glb	ZA-PokeDLC	920	
+921	Pawmi	model-listed	0921/regular.glb	ZA-PokeDLC	921	
+922	Pawmo	missing				
+923	Pawmot	model-listed	0923/regular.glb	ZA-Poke	923	
+924	Tandemaus	missing		SV-PokeDLC2	924	
+925	Maushold	missing				
+926	Fidough	missing		SV-Poke	926	
+927	Dachsbun	missing		SV-Poke	927	
+928	Smoliv	missing				
+929	Dolliv	missing		SV-PokeDLC2	929	
+930	Arboliva	missing				
+931	Squawkabilly	missing				
+932	Nacli	missing				
+933	Naclstack	missing		SV-Poke	933	
+934	Garganacl	missing		SV-Poke	934	
+935	Charcadet	missing		SV-Poke	935	
+936	Armarouge	missing		SV-Poke	936	
+937	Ceruledge	missing		SV-Poke	937	
+938	Tadbulb	missing				
+939	Bellibolt	missing				
+940	Wattrel	missing		SV-Poke	940	
+941	Kilowattrel	missing				
+942	Maschiff	model-listed	0942/regular.glb	ZA-PokeDLC	942	
+943	Mabosstiff	missing				
+944	Shroodle	missing		SV-Poke	944	
+945	Grafaiai	missing		SV-Poke	945	
+946	Bramblin	missing		SV-Poke	946	
+947	Brambleghast	missing				
+948	Toedscool	missing		SV-Poke	948	
+949	Toedscruel	missing		SV-Poke	949	
+950	Klawf	missing		SV-Poke	950	
+951	Capsakid	missing		SV-Poke	951	
+952	Scovillain	missing		SV-Poke	952	
+953	Rellor	missing		SV-Poke	953	
+954	Rabsca	missing		SV-Poke	954	
+955	Flittle	missing		SV-Poke	955	
+956	Espathra	missing		SV-Poke	956	
+957	Tinkatink	missing		SV-Poke	957	
+958	Tinkatuff	missing		SV-Poke	958	
+959	Tinkaton	missing		SV-Poke	959	
+960	Wiglett	missing				
+961	Wugtrio	missing				
+962	Bombirdier	missing				
+963	Finizen	missing				
+964	Palafin	model-listed	0964/regular.glb	ZA-PokeDLC	964	
+965	Varoom	model-listed	0965/regular.glb	ZA-PokeDLC	965	
+966	Revavroom	missing		SV-Poke	966	
+967	Cyclizar	missing		SV-Poke	967	
+968	Orthworm	missing		SV-Poke	968	
+969	Glimmet	missing		SV-Poke	969	
+970	Glimmora	missing		SV-Poke	970	
+971	Greavard	missing		SV-Poke	971	
+972	Houndstone	missing				
+973	Flamigo	missing				
+974	Cetoddle	missing		SV-Poke	974	
+975	Cetitan	missing				
+976	Veluza	missing		SV-Poke	976	
+977	Dondozo	missing		SV-Poke	977	
+978	Tatsugiri	missing		SV-Poke	978	
+979	Annihilape	missing				
+980	Clodsire	missing				
+981	Farigiraf	missing				
+982	Dudunsparce	missing		SV-Poke	982	
+983	Kingambit	missing				
+984	Great Tusk	missing		SV-Poke	984	
+985	Scream Tail	missing		SV-Poke	985	
+986	Brute Bonnet	missing				
+987	Flutter Mane	missing				
+988	Slither Wing	missing				
+989	Sandy Shocks	missing		SV-Poke	989	
+990	Iron Treads	missing		SV-Poke	990	
+991	Iron Bundle	missing				
+992	Iron Hands	missing				
+993	Iron Jugulis	missing				
+994	Iron Moth	missing				
+995	Iron Thorns	missing				
+996	Frigibax	missing				
+997	Arctibax	missing				
+998	Baxcalibur	missing				
+999	Gimmighoul	missing				
+1000	Gholdengo	missing				
+1001	Wo-Chien	missing		LA-Poke	1001	
+1002	Chien-Pao	missing		ZA-PokeDLC	1002	
+1003	Ting-Lu	missing				
+1004	Chi-Yu	missing				
+1005	Roaring Moon	missing				
+1006	Iron Valiant	missing				
+1007	Koraidon	missing		LA-Poke	1007	
+1008	Miraidon	missing				
+1009	Walking Wake	missing				
+1010	Iron Leaves	missing		SV-Poke	1010	
+1011	Dipplin	missing		SV-Poke	1011	
+1012	Poltchageist	missing		SV-Poke	1012	
+1013	Sinistcha	missing		SV-Poke	1013	
+1014	Okidogi	missing		SV-Poke	1014	
+1015	Munkidori	missing		SV-Poke	1015	
+1016	Fezandipiti	missing		SV-Poke	1016	
+1017	Ogerpon	missing		SV-Poke	1017	
+1018	Archaludon	missing		SV-Poke	1018	
+1019	Hydrapple	missing		SV-Poke	1019	
+1020	Gouging Fire	missing		SV-Poke	1020	
+1021	Raging Bolt	missing				
+1022	Iron Boulder	missing		SV-Poke	1022	
+1023	Iron Crown	missing		SV-Poke	1023	
+1024	Terapagos	missing		SV-Poke	1024	
+1025	Pecharunt	missing		SV-Poke	1025	
