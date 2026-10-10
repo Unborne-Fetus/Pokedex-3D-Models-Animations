@@ -220,7 +220,7 @@ function escapeHtml(value) {
 }
 
 function prettyName(model) {
-  const known = String(model?.name || window.POKEDEX3D_NAMES?.[model?.dex] || "").trim();
+  const known = String(window.POKEDEX3D_NAMES?.[model?.dex] || model?.name || "").trim();
   return known || ("#" + String(model?.dex || 0).padStart(4, "0"));
 }
 
@@ -472,7 +472,7 @@ function loadModel(model) {
   const catalogUrl = String(model?.url || "");
   const fromLocalFolder = typeof File !== "undefined" && model?.file instanceof File;
   const fromRemoteManifest = model?.remoteSwitch === true
-    && /^https:\/\/[^/]+\/(?:.*\/)?\d{4}\/regular\.glb$/.test(catalogUrl);
+    && /^https:\/\/[^/]+\/(?:.*\/)?\d{4}\/regular\.glb(?:\?[^#]*)?$/.test(catalogUrl);
   if (!catalogUrl || (!catalogUrl.replaceAll("\\", "/").includes("/switch/") && !fromRemoteManifest)) {
     messageEl.textContent = "Blocked non-Switch model source.";
     messageEl.classList.remove("hidden");
@@ -495,9 +495,23 @@ function loadModel(model) {
   }, fromRemoteManifest ? 30000 : 15000);
 
   if (fromLocalFolder) {
-    activeObjectUrl = URL.createObjectURL(model.file);
-    viewer.src = activeObjectUrl;
-  } else if (fromRemoteManifest) {
+    // A selected local file is untrusted until its embedded species ID is checked.
+    (async () => {
+      try {
+        const bytes = await model.file.arrayBuffer();
+        await window.POKEDEX3D_MODEL_IDENTITY.verify(model, bytes);
+        if (selectedSequence !== loadSequence) return;
+        activeObjectUrl = URL.createObjectURL(model.file);
+        viewer.src = activeObjectUrl;
+      } catch (error) {
+        if (selectedSequence !== loadSequence) return;
+        clearLoadTimer();
+        messageEl.textContent = "Model identity check failed: " +
+          String(error.message || error);
+        messageEl.classList.remove("hidden");
+      }
+    })();
+  } else if ((fromRemoteManifest) || catalogUrl.replaceAll("\\", "/").includes("/switch/")) {
     // Public GitHub file inventories list paths, not proof of safe assets.
     // Download once, inspect the real GLB for embedded color and a valid
     // idle, then render that exact same downloaded data through a blob URL.
@@ -508,8 +522,18 @@ function loadModel(model) {
         const reply = await fetch(catalogUrl, { mode: "cors", signal: abort.signal });
         if (!reply.ok) throw Error("GitHub returned HTTP " + reply.status);
         const data = await reply.arrayBuffer();
+        await window.POKEDEX3D_MODEL_IDENTITY.verify(model, data);
         if (abort.signal.aborted || selectedSequence !== loadSequence) return;
-        const checked = window.POKEDEX3D_REMOTE_SWITCH.inspect(data);
+        const checked = fromRemoteManifest
+          ? window.POKEDEX3D_REMOTE_SWITCH.inspect(data)
+          : (() => {
+              const doc = window.POKEDEX3D_MODEL_IDENTITY.glbDocument(data);
+              const animations = (doc.animations || [])
+                .filter(clip => clip.channels?.length && clip.samplers?.length)
+                .map((clip, i) => clip.name || "Animation_" + i);
+              return { animations, idleAnimation: chooseIdle(model, animations) ||
+                (animations.length === 1 ? animations[0] : null) };
+            })();
         if (abort.signal.aborted || selectedSequence !== loadSequence) return;
         model.idleAnimation = checked.idleAnimation;
         model.idleBreaks = (model.idleBreaks || [])
