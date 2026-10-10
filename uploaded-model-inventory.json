@@ -1,8 +1,8 @@
 {
   "format": 1,
   "source": "github-model-file-inventory",
-  "count": 756,
-  "totalBytes": 663530292,
+  "count": 749,
+  "totalBytes": 652375836,
   "note": "Public GitHub repository file inventory: names and sizes only. Each GLB's embedded textures and idle animations are checked in the visitor's browser before display; visual fidelity is not guaranteed.",
   "entries": [
     {
@@ -3436,24 +3436,88 @@
       "bytes": 2167656
     },
     {
+      "dex": 906,
+      "path": "0906/regular.glb",
+      "bytes": 3223032,
+      "sourceGame": "sv",
+      "sourceModelId": 1010
+    },
+    {
+      "dex": 907,
+      "path": "0907/regular.glb",
+      "bytes": 2578336,
+      "sourceGame": "sv",
+      "sourceModelId": 1011
+    },
+    {
+      "dex": 908,
+      "path": "0908/regular.glb",
+      "bytes": 2514964,
+      "sourceGame": "sv",
+      "sourceModelId": 1012
+    },
+    {
       "dex": 909,
       "path": "0909/regular.glb",
-      "bytes": 2859124
+      "bytes": 1740228,
+      "sourceGame": "sv",
+      "sourceModelId": 1013
     },
     {
       "dex": 910,
       "path": "0910/regular.glb",
-      "bytes": 2492940
+      "bytes": 1896588,
+      "sourceGame": "sv",
+      "sourceModelId": 1014
+    },
+    {
+      "dex": 911,
+      "path": "0911/regular.glb",
+      "bytes": 2431460,
+      "sourceGame": "sv",
+      "sourceModelId": 1015
+    },
+    {
+      "dex": 912,
+      "path": "0912/regular.glb",
+      "bytes": 2830300,
+      "sourceGame": "sv",
+      "sourceModelId": 1016
     },
     {
       "dex": 913,
       "path": "0913/regular.glb",
-      "bytes": 1094252
+      "bytes": 2542984,
+      "sourceGame": "sv",
+      "sourceModelId": 1017
     },
     {
       "dex": 914,
       "path": "0914/regular.glb",
-      "bytes": 1521004
+      "bytes": 2912080,
+      "sourceGame": "sv",
+      "sourceModelId": 1018
+    },
+    {
+      "dex": 915,
+      "path": "0915/regular.glb",
+      "bytes": 1196000,
+      "sourceGame": "sv",
+      "sourceModelId": 1019
+    },
+    {
+      "dex": 916,
+      "path": "0916/regular.glb",
+      "bytes": 1834004,
+      "sourceGame": "sv",
+      "sourceModelId": 1020
+    },
+    {
+      "dex": 917,
+      "path": "0917/regular.glb",
+      "bytes": 2160504,
+      "sourceGame": "sv",
+      "sourceModelId": 1022
     },
     {
       "dex": 918,
@@ -3709,81 +3773,6 @@
       "dex": 1007,
       "path": "1007/regular.glb",
       "bytes": 752124
-    },
-    {
-      "dex": 1010,
-      "path": "1010/regular.glb",
-      "bytes": 3223032
-    },
-    {
-      "dex": 1011,
-      "path": "1011/regular.glb",
-      "bytes": 2578336
-    },
-    {
-      "dex": 1012,
-      "path": "1012/regular.glb",
-      "bytes": 2514964
-    },
-    {
-      "dex": 1013,
-      "path": "1013/regular.glb",
-      "bytes": 1740228
-    },
-    {
-      "dex": 1014,
-      "path": "1014/regular.glb",
-      "bytes": 1896588
-    },
-    {
-      "dex": 1015,
-      "path": "1015/regular.glb",
-      "bytes": 2431460
-    },
-    {
-      "dex": 1016,
-      "path": "1016/regular.glb",
-      "bytes": 2830300
-    },
-    {
-      "dex": 1017,
-      "path": "1017/regular.glb",
-      "bytes": 2542984
-    },
-    {
-      "dex": 1018,
-      "path": "1018/regular.glb",
-      "bytes": 2912080
-    },
-    {
-      "dex": 1019,
-      "path": "1019/regular.glb",
-      "bytes": 1196000
-    },
-    {
-      "dex": 1020,
-      "path": "1020/regular.glb",
-      "bytes": 1834004
-    },
-    {
-      "dex": 1022,
-      "path": "1022/regular.glb",
-      "bytes": 2160504
-    },
-    {
-      "dex": 1023,
-      "path": "1023/regular.glb",
-      "bytes": 1392704
-    },
-    {
-      "dex": 1024,
-      "path": "1024/regular.glb",
-      "bytes": 557180
-    },
-    {
-      "dex": 1025,
-      "path": "1025/regular.glb",
-      "bytes": 1237252
     }
   ]
 }
