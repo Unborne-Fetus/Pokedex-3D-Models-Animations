@@ -519,10 +519,8 @@ function loadModel(model) {
     remoteAbort = abort;
     (async () => {
       try {
-        const reply = await fetch(catalogUrl, { mode: "cors", signal: abort.signal });
-        if (!reply.ok) throw Error("GitHub returned HTTP " + reply.status);
-        const data = await reply.arrayBuffer();
-        await window.POKEDEX3D_MODEL_IDENTITY.verify(model, data);
+        const data = await window.POKEDEX3D_MODEL_IDENTITY.loadVerified(
+          model, catalogUrl, abort.signal);
         if (abort.signal.aborted || selectedSequence !== loadSequence) return;
         const checked = fromRemoteManifest
           ? window.POKEDEX3D_REMOTE_SWITCH.inspect(data)
