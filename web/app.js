@@ -40,9 +40,20 @@ const finishedCoverageFillEl = document.querySelector("#finishedCoverageFill");
 
 // Keep every numbered National Dex species visible even without a model.
 // Only real entries from the Switch asset catalog may display a 3D model.
+function correctlyNumberedSwitchModel(model) {
+  if (!model || model.missingModel || model.communityCandidate) return true;
+  const internal = Number(model.sourceModelId ?? model.modelId);
+  const game = String(model.sourceGame || "");
+  // Reject stale internal game IDs before they are shown as a National Dex species.
+  if (!Number.isInteger(internal) ||
+      !/^(?:sv|swsh|la|za)(?:-|$)/i.test(game)) return true;
+  return window.POKEDEX3D_MODEL_IDENTITY.nationalDex(internal, game) === Number(model.dex);
+}
+
 function withMissingSpeciesEntries(catalog) {
   const entries = new Map();
   for (const model of catalog) {
+    if (!correctlyNumberedSwitchModel(model)) continue;
     const dex = Number(model?.dex);
     if (!Number.isInteger(dex) || dex < 1 || dex > 1025) continue;
     if (!entries.has(dex) || (entries.get(dex).missingModel && !model.missingModel)) {
