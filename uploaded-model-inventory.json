@@ -8,9 +8,9 @@
     {
       "dex": 1,
       "path": "0001/regular.glb",
-      "bytes": 465624,
-      "sha": "b601165f4780b622d9d574b7cd026aaf211cb207",
-      "sourceBlobSha": "b601165f4780b622d9d574b7cd026aaf211cb207",
+      "bytes": 450432,
+      "sha": "2723a8448ad26d4cf7d8ead6fc73cf683eba6009",
+      "sourceBlobSha": "2723a8448ad26d4cf7d8ead6fc73cf683eba6009",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 1,
       "sourceEvidence": "original-asset-sha1"
@@ -18,9 +18,9 @@
     {
       "dex": 2,
       "path": "0002/regular.glb",
-      "bytes": 741288,
-      "sha": "6ce9c695d213faeb2b6eab2804f657ca27e59d20",
-      "sourceBlobSha": "6ce9c695d213faeb2b6eab2804f657ca27e59d20",
+      "bytes": 715000,
+      "sha": "8b3f8bdb2b64085eb35cba0c0b2cbb99b4b3165c",
+      "sourceBlobSha": "8b3f8bdb2b64085eb35cba0c0b2cbb99b4b3165c",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 2,
       "sourceEvidence": "original-asset-sha1"
@@ -28,9 +28,9 @@
     {
       "dex": 3,
       "path": "0003/regular.glb",
-      "bytes": 1046756,
-      "sha": "137d999071a78644dd2c35940d3376db1e884cff",
-      "sourceBlobSha": "137d999071a78644dd2c35940d3376db1e884cff",
+      "bytes": 1035044,
+      "sha": "a5561978ffcee4d8ba0fe01eae682de4578dd553",
+      "sourceBlobSha": "a5561978ffcee4d8ba0fe01eae682de4578dd553",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 3,
       "sourceEvidence": "original-asset-sha1"
@@ -38,9 +38,9 @@
     {
       "dex": 4,
       "path": "0004/regular.glb",
-      "bytes": 402840,
-      "sha": "7326dece7c78832ed0280f35ffedc82d202f9d8c",
-      "sourceBlobSha": "7326dece7c78832ed0280f35ffedc82d202f9d8c",
+      "bytes": 431500,
+      "sha": "f5afae031e5ef96ab1a5cb05cefb29ecf5c93a1e",
+      "sourceBlobSha": "f5afae031e5ef96ab1a5cb05cefb29ecf5c93a1e",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 4,
       "sourceEvidence": "original-asset-sha1"
@@ -48,9 +48,9 @@
     {
       "dex": 5,
       "path": "0005/regular.glb",
-      "bytes": 460380,
-      "sha": "d262a72262606eb098050318168f4bb1f532841b",
-      "sourceBlobSha": "d262a72262606eb098050318168f4bb1f532841b",
+      "bytes": 475760,
+      "sha": "486966d2a8d1c372206ce8b27bc999dab253a0e8",
+      "sourceBlobSha": "486966d2a8d1c372206ce8b27bc999dab253a0e8",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 5,
       "sourceEvidence": "original-asset-sha1"
@@ -58,9 +58,9 @@
     {
       "dex": 6,
       "path": "0006/regular.glb",
-      "bytes": 753944,
-      "sha": "4851f41dc8e2d1c923512ade9e5ce294b5b8bfaf",
-      "sourceBlobSha": "4851f41dc8e2d1c923512ade9e5ce294b5b8bfaf",
+      "bytes": 893976,
+      "sha": "72e27e3103adf38843ab5919a3b92e57f713be80",
+      "sourceBlobSha": "72e27e3103adf38843ab5919a3b92e57f713be80",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 6,
       "sourceEvidence": "original-asset-sha1"
@@ -68,9 +68,9 @@
     {
       "dex": 7,
       "path": "0007/regular.glb",
-      "bytes": 464980,
-      "sha": "451b3d26257d13fd745ba640167e06b9abbe29c8",
-      "sourceBlobSha": "451b3d26257d13fd745ba640167e06b9abbe29c8",
+      "bytes": 498380,
+      "sha": "b4ac44a0344cd720ce11d0eeab133e80addafbb5",
+      "sourceBlobSha": "b4ac44a0344cd720ce11d0eeab133e80addafbb5",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 7,
       "sourceEvidence": "original-asset-sha1"
@@ -78,9 +78,9 @@
     {
       "dex": 8,
       "path": "0008/regular.glb",
-      "bytes": 568368,
-      "sha": "35fbf36b0ed9dfbf97ffb8dd56a6c962809e6cb1",
-      "sourceBlobSha": "35fbf36b0ed9dfbf97ffb8dd56a6c962809e6cb1",
+      "bytes": 632276,
+      "sha": "7d96d2a006ad174d7af64ca8b7c7f98d336f5596",
+      "sourceBlobSha": "7d96d2a006ad174d7af64ca8b7c7f98d336f5596",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 8,
       "sourceEvidence": "original-asset-sha1"
@@ -88,9 +88,9 @@
     {
       "dex": 9,
       "path": "0009/regular.glb",
-      "bytes": 956296,
-      "sha": "59305240c59fbd2418804c59a18c200cf907e726",
-      "sourceBlobSha": "59305240c59fbd2418804c59a18c200cf907e726",
+      "bytes": 1135040,
+      "sha": "91dab109cbab73090b59742aa7df74b2248e4cf7",
+      "sourceBlobSha": "91dab109cbab73090b59742aa7df74b2248e4cf7",
       "sourceGame": "ZA-Poke",
       "sourceModelId": 9,
       "sourceEvidence": "original-asset-sha1"

@@ -1,0 +1,38 @@
+name: Restore reviewed Blastoise model
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/restore-reviewed-kanto-glb.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            0009
+          sparse-checkout-cone-mode: true
+          persist-credentials: true
+      - name: Restore previously reviewed model from exact development commit
+        shell: bash
+        run: |
+          curl --fail --location --retry 3 --silent --show-error \
+            "https://raw.githubusercontent.com/Unborne-Fetus/Pokedex-3D-Max/4cae18a895710dc64d8eafb19cfcd5f07289d3d9/web/models/switch/0009/regular.glb" \
+            -o 0009/regular.glb
+          test "$(git hash-object 0009/regular.glb)" = "91dab109cbab73090b59742aa7df74b2248e4cf7"
+      - name: Publish verified restored Blastoise model
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 0009/regular.glb
+          if ! git diff --cached --quiet; then
+            git commit -m "Restore reviewed Blastoise GLB textures"
+            git push
+          fi

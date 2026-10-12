@@ -523,7 +523,10 @@ function loadModel(model) {
         const bytes = await model.file.arrayBuffer();
         await window.POKEDEX3D_MODEL_IDENTITY.verify(model, bytes);
         if (selectedSequence !== loadSequence) return;
-        activeObjectUrl = URL.createObjectURL(model.file);
+        const repaired = typeof window.POKEDEX3D_REPAIR_SWITCH_MODEL === "function"
+          ? await window.POKEDEX3D_REPAIR_SWITCH_MODEL(bytes, Number(model.dex)) : bytes;
+        if (selectedSequence !== loadSequence) return;
+        activeObjectUrl = URL.createObjectURL(new Blob([repaired], { type: "model/gltf-binary" }));
         viewer.src = activeObjectUrl;
       } catch (error) {
         if (selectedSequence !== loadSequence) return;
@@ -541,8 +544,10 @@ function loadModel(model) {
     remoteAbort = abort;
     (async () => {
       try {
-        const data = await window.POKEDEX3D_MODEL_IDENTITY.loadVerified(
+        const downloaded = await window.POKEDEX3D_MODEL_IDENTITY.loadVerified(
           model, catalogUrl, abort.signal);
+        const data = typeof window.POKEDEX3D_REPAIR_SWITCH_MODEL === "function"
+          ? await window.POKEDEX3D_REPAIR_SWITCH_MODEL(downloaded, Number(model.dex)) : downloaded;
         if (abort.signal.aborted || selectedSequence !== loadSequence) return;
         const checked = fromRemoteManifest
           ? window.POKEDEX3D_REMOTE_SWITCH.inspect(data)
