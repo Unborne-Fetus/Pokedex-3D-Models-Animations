@@ -198,6 +198,21 @@
       "updatedAt": "2026-10-24T23:38:11.533Z"
     },
     {
+      "dex": 266,
+      "name": "Silcoon",
+      "path": "temporary-imports/0266/regular.glb",
+      "sha": "3d06e1f3e5221bf0c1b7930b4f5422c0a65d35c4",
+      "bytes": 3257636,
+      "sourceGame": "la",
+      "sourceModelId": 266,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0266_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:16.582Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
