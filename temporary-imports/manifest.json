@@ -18,6 +18,21 @@
       "updatedAt": "2026-10-24T22:09:04.252Z"
     },
     {
+      "dex": 77,
+      "name": "Ponyta",
+      "path": "temporary-imports/0077/regular.glb",
+      "sha": "57678685f81de300993a891054c54eae2cc146e8",
+      "bytes": 9034804,
+      "sourceGame": "la",
+      "sourceModelId": 77,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0077_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:12:22.499Z"
+    },
+    {
       "dex": 78,
       "name": "Rapidash",
       "path": "temporary-imports/0078/regular.glb",
