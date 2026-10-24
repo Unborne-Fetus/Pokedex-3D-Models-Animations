@@ -273,6 +273,21 @@
       "updatedAt": "2026-10-24T23:38:41.921Z"
     },
     {
+      "dex": 364,
+      "name": "Sealeo",
+      "path": "temporary-imports/0364/regular.glb",
+      "sha": "cedb0c636d390b553d9af2cf1612435cfa994148",
+      "bytes": 7965020,
+      "sourceGame": "la",
+      "sourceModelId": 364,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0364_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:49.723Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
