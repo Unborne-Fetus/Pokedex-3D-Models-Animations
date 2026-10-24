@@ -1,5 +1,21 @@
 {
   "format": 1,
   "source": "pokedex3d-temporary-github-imports",
-  "entries": []
+  "entries": [
+    {
+      "dex": 46,
+      "name": "Paras",
+      "path": "temporary-imports/0046/regular.glb",
+      "sha": "efdf018c12cb0114fe1b68e4ae4a0b5b31ab5e41",
+      "bytes": 5791760,
+      "sourceGame": "la",
+      "sourceModelId": 46,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0046_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:09:04.252Z"
+    }
+  ]
 }
