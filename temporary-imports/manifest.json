@@ -258,6 +258,21 @@
       "updatedAt": "2026-10-24T23:38:36.205Z"
     },
     {
+      "dex": 363,
+      "name": "Spheal",
+      "path": "temporary-imports/0363/regular.glb",
+      "sha": "887ab369d695fd1e2e0a3cb1e10dfbf75e54d043",
+      "bytes": 4768796,
+      "sourceGame": "la",
+      "sourceModelId": 363,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0363_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:41.921Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
