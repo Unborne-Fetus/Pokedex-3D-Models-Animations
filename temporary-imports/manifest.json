@@ -153,6 +153,21 @@
       "updatedAt": "2026-10-24T23:37:49.628Z"
     },
     {
+      "dex": 224,
+      "name": "Octillery",
+      "path": "temporary-imports/0224/regular.glb",
+      "sha": "50cb770288d037c2aa84f0d1ef1d240c2ad2d34a",
+      "bytes": 6134492,
+      "sourceGame": "la",
+      "sourceModelId": 224,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0224_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:37:57.765Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
