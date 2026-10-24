@@ -16,6 +16,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0046_00_00_00000_defaultwait01_loop",
       "updatedAt": "2026-10-24T22:09:04.252Z"
+    },
+    {
+      "dex": 114,
+      "name": "Tangela",
+      "path": "temporary-imports/0114/regular.glb",
+      "sha": "2dc6dcafbd0b0bfa65bac40e6a98acc6979163ab",
+      "bytes": 7541436,
+      "sourceGame": "la",
+      "sourceModelId": 114,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0114_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:11:53.572Z"
     }
   ]
 }
