@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 365,
+      "name": "Walrein",
+      "path": "temporary-imports/0365/regular.glb",
+      "sha": "6346e893925f8dab33a98c402de98a6d94d2a938",
+      "bytes": 7294192,
+      "sourceGame": "la",
+      "sourceModelId": 365,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0365_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:44:13.350Z"
+    },
+    {
       "dex": 399,
       "name": "Bidoof",
       "path": "temporary-imports/0399/regular.glb",
