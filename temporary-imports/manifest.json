@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 421,
+      "name": "Cherrim",
+      "path": "temporary-imports/0421/regular.glb",
+      "sha": "b3e3d3cfb362991707788fafc7a7d906dd8e44d4",
+      "bytes": 4152132,
+      "sourceGame": "la",
+      "sourceModelId": 421,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0421_11_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:42:56.723Z"
+    },
+    {
       "dex": 431,
       "name": "Glameow",
       "path": "temporary-imports/0431/regular.glb",
