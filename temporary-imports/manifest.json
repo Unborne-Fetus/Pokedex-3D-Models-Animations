@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 414,
+      "name": "Mothim",
+      "path": "temporary-imports/0414/regular.glb",
+      "sha": "a1c9433f6a99996d972a122d84bba0f5194ab715",
+      "bytes": 4417972,
+      "sourceGame": "la",
+      "sourceModelId": 414,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0414_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:43:12.734Z"
+    },
+    {
       "dex": 420,
       "name": "Cherubi",
       "path": "temporary-imports/0420/regular.glb",
