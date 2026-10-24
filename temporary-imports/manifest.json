@@ -168,6 +168,21 @@
       "updatedAt": "2026-10-24T23:37:57.765Z"
     },
     {
+      "dex": 226,
+      "name": "Mantine",
+      "path": "temporary-imports/0226/regular.glb",
+      "sha": "61e7509a016d98cca65a71b2b99658ede14e2d28",
+      "bytes": 5165592,
+      "sourceGame": "la",
+      "sourceModelId": 226,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0226_00_00_10000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:04.102Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
