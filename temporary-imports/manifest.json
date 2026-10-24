@@ -183,6 +183,21 @@
       "updatedAt": "2026-10-24T23:38:04.102Z"
     },
     {
+      "dex": 265,
+      "name": "Wurmple",
+      "path": "temporary-imports/0265/regular.glb",
+      "sha": "6d151d941a5b2df96ff754879c65e4230d5901bc",
+      "bytes": 5660052,
+      "sourceGame": "la",
+      "sourceModelId": 265,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0265_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:11.533Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
