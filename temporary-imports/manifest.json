@@ -18,6 +18,21 @@
       "updatedAt": "2026-10-24T22:09:04.252Z"
     },
     {
+      "dex": 108,
+      "name": "Lickitung",
+      "path": "temporary-imports/0108/regular.glb",
+      "sha": "c82710dbebd9ea0b80bae5f6e2de5ba7874b3c3b",
+      "bytes": 6456592,
+      "sourceGame": "la",
+      "sourceModelId": 108,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0108_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:12:00.452Z"
+    },
+    {
       "dex": 114,
       "name": "Tangela",
       "path": "temporary-imports/0114/regular.glb",
