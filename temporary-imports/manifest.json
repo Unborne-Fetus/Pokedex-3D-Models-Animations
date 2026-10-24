@@ -106,6 +106,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0175_00_00_00000_defaultwait01_loop",
       "updatedAt": "2026-10-24T22:18:22.711Z"
+    },
+    {
+      "dex": 176,
+      "name": "Togetic",
+      "path": "temporary-imports/0176/regular.glb",
+      "sha": "4d83b423a495c4617f7f44e78ecfd10333336a6d",
+      "bytes": 4883800,
+      "sourceGame": "la",
+      "sourceModelId": 176,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0176_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:18:29.694Z"
     }
   ]
 }
