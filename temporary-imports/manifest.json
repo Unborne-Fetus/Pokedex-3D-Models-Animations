@@ -243,6 +243,21 @@
       "updatedAt": "2026-10-24T23:38:28.510Z"
     },
     {
+      "dex": 269,
+      "name": "Dustox",
+      "path": "temporary-imports/0269/regular.glb",
+      "sha": "ae6fc4d93d36dfcd9b98ced3bd6aa7efcaa4973c",
+      "bytes": 7569052,
+      "sourceGame": "la",
+      "sourceModelId": 269,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0269_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:36.205Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
