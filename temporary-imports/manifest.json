@@ -121,6 +121,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0176_00_00_20000_defaultwait01_loop",
       "updatedAt": "2026-10-24T22:18:29.694Z"
+    },
+    {
+      "dex": 201,
+      "name": "Unown",
+      "path": "temporary-imports/0201/regular.glb",
+      "sha": "2a58d056095c3e9bccd4a208568ea48ef6e23c38",
+      "bytes": 1794552,
+      "sourceGame": "la",
+      "sourceModelId": 201,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0201_11_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:19:33.573Z"
     }
   ]
 }
