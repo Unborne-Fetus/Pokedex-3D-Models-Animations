@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 400,
+      "name": "Bibarel",
+      "path": "temporary-imports/0400/regular.glb",
+      "sha": "f42cfbc168a8fd961c30e085999bbff046d09d1b",
+      "bytes": 7606164,
+      "sourceGame": "la",
+      "sourceModelId": 400,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0400_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:43:48.391Z"
+    },
+    {
       "dex": 412,
       "name": "Burmy",
       "path": "temporary-imports/0412/regular.glb",
