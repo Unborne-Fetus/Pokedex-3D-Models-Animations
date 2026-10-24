@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 399,
+      "name": "Bidoof",
+      "path": "temporary-imports/0399/regular.glb",
+      "sha": "7a13d127d418be6fa6936299277850fffb4244b3",
+      "bytes": 8289284,
+      "sourceGame": "la",
+      "sourceModelId": 399,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0399_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:43:58.702Z"
+    },
+    {
       "dex": 400,
       "name": "Bibarel",
       "path": "temporary-imports/0400/regular.glb",
