@@ -228,6 +228,21 @@
       "updatedAt": "2026-10-24T23:38:23.149Z"
     },
     {
+      "dex": 268,
+      "name": "Cascoon",
+      "path": "temporary-imports/0268/regular.glb",
+      "sha": "6431664439b726b1e55ac20960a57a2ecf6b1adf",
+      "bytes": 3069512,
+      "sourceGame": "la",
+      "sourceModelId": 268,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0268_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:38:28.510Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
