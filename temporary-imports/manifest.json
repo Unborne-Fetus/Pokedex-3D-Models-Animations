@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 223,
+      "name": "Remoraid",
+      "path": "temporary-imports/0223/regular.glb",
+      "sha": "61d08286ea0d4247dd36bf09b5d82795ec84a44d",
+      "bytes": 3978456,
+      "sourceGame": "la",
+      "sourceModelId": 223,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0223_00_00_10000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T23:37:49.628Z"
+    },
+    {
       "dex": 365,
       "name": "Walrein",
       "path": "temporary-imports/0365/regular.glb",
