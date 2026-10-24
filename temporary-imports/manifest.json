@@ -91,6 +91,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0114_00_00_00000_defaultwait01_loop",
       "updatedAt": "2026-10-24T22:11:53.572Z"
+    },
+    {
+      "dex": 175,
+      "name": "Togepi",
+      "path": "temporary-imports/0175/regular.glb",
+      "sha": "45a4a14d6b69538e6fe6e4982eab8805de629c50",
+      "bytes": 3230424,
+      "sourceGame": "la",
+      "sourceModelId": 175,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0175_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:18:22.711Z"
     }
   ]
 }
