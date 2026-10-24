@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 413,
+      "name": "Wormadam",
+      "path": "temporary-imports/0413/regular.glb",
+      "sha": "6de1645abd75c90a3ceaceec27fdea44e560d922",
+      "bytes": 7659628,
+      "sourceGame": "la",
+      "sourceModelId": 413,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0413_11_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:43:25.334Z"
+    },
+    {
       "dex": 414,
       "name": "Mothim",
       "path": "temporary-imports/0414/regular.glb",
