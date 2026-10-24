@@ -138,6 +138,21 @@
       "updatedAt": "2026-10-24T22:20:01.060Z"
     },
     {
+      "dex": 412,
+      "name": "Burmy",
+      "path": "temporary-imports/0412/regular.glb",
+      "sha": "28deead169b23714380c4e87a48bc37019c2c204",
+      "bytes": 4983320,
+      "sourceGame": "la",
+      "sourceModelId": 412,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0412_11_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:43:33.352Z"
+    },
+    {
       "dex": 413,
       "name": "Wormadam",
       "path": "temporary-imports/0413/regular.glb",
