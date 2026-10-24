@@ -18,6 +18,21 @@
       "updatedAt": "2026-10-24T22:09:04.252Z"
     },
     {
+      "dex": 47,
+      "name": "Parasect",
+      "path": "temporary-imports/0047/regular.glb",
+      "sha": "ae6474b5cc524765eaffd6e7058dbeea8184112e",
+      "bytes": 7487624,
+      "sourceGame": "la",
+      "sourceModelId": 47,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0047_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-24T22:12:31.956Z"
+    },
+    {
       "dex": 77,
       "name": "Ponyta",
       "path": "temporary-imports/0077/regular.glb",
