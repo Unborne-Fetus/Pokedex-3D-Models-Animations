@@ -573,6 +573,21 @@
       "updatedAt": "2026-10-26T05:36:25.612Z"
     },
     {
+      "dex": 481,
+      "name": "Mesprit",
+      "path": "temporary-imports/0481/regular.glb",
+      "sha": "c7e5f1d97bbed8c98e410cc1e8070ca39c74635d",
+      "bytes": 7739604,
+      "sourceGame": "la",
+      "sourceModelId": 481,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0481_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:33.238Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
