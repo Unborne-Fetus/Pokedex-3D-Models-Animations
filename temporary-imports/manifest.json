@@ -468,6 +468,21 @@
       "updatedAt": "2026-10-26T05:29:36.624Z"
     },
     {
+      "dex": 452,
+      "name": "Drapion",
+      "path": "temporary-imports/0452/regular.glb",
+      "sha": "1f7f060e45b88610116e655fae9a2b1fe4f99461",
+      "bytes": 7933908,
+      "sourceGame": "la",
+      "sourceModelId": 452,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0452_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:35:43.213Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
