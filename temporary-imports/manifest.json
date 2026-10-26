@@ -558,6 +558,21 @@
       "updatedAt": "2026-10-26T05:36:19.452Z"
     },
     {
+      "dex": 480,
+      "name": "Uxie",
+      "path": "temporary-imports/0480/regular.glb",
+      "sha": "676cdda3fd275b8dc5e1f2edd31dfa9d8f5a1d99",
+      "bytes": 5089872,
+      "sourceGame": "la",
+      "sourceModelId": 480,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0480_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:25.612Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
