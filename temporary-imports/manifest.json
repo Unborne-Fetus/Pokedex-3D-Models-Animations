@@ -663,6 +663,21 @@
       "updatedAt": "2026-10-26T05:36:59.000Z"
     },
     {
+      "dex": 488,
+      "name": "Cresselia",
+      "path": "temporary-imports/0488/regular.glb",
+      "sha": "2acbe20df6935f255730395dfa28c12e239c4ab0",
+      "bytes": 4525780,
+      "sourceGame": "la",
+      "sourceModelId": 488,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0488_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:37:04.950Z"
+    },
+    {
       "dex": 493,
       "name": "Arceus",
       "path": "temporary-imports/0493/regular.glb",
