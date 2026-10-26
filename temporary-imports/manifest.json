@@ -648,6 +648,21 @@
       "updatedAt": "2026-10-26T05:36:48.294Z"
     },
     {
+      "dex": 487,
+      "name": "Giratina",
+      "path": "temporary-imports/0487/regular.glb",
+      "sha": "13e1b3de821c7bcc3a23b7f774d545cfd6d8a389",
+      "bytes": 14818316,
+      "sourceGame": "la",
+      "sourceModelId": 487,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0487_11_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:59.000Z"
+    },
+    {
       "dex": 493,
       "name": "Arceus",
       "path": "temporary-imports/0493/regular.glb",
