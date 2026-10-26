@@ -603,6 +603,21 @@
       "updatedAt": "2026-10-26T05:28:25.244Z"
     },
     {
+      "dex": 483,
+      "name": "Dialga",
+      "path": "temporary-imports/0483/regular.glb",
+      "sha": "eb812cda8e7530cbb3c46a18c286b9b5483e2da1",
+      "bytes": 8138064,
+      "sourceGame": "la",
+      "sourceModelId": 483,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0483_11_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:41.393Z"
+    },
+    {
       "dex": 484,
       "name": "Palkia",
       "path": "temporary-imports/0484/regular.glb",
