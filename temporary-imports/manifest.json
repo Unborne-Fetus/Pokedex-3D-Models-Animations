@@ -483,6 +483,21 @@
       "updatedAt": "2026-10-26T05:35:43.213Z"
     },
     {
+      "dex": 455,
+      "name": "Carnivine",
+      "path": "temporary-imports/0455/regular.glb",
+      "sha": "abf5af403c66eddf67b12c52635887d1374c67f9",
+      "bytes": 9374836,
+      "sourceGame": "la",
+      "sourceModelId": 455,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0455_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:35:51.825Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
