@@ -522,7 +522,7 @@
       "sourceModelId": 463,
       "eggPlaceholder": false,
       "gfpakImport": true,
-      "orientation": "0deg -90deg 0deg",
+      "orientation": "0deg 0deg 0deg",
       "orientationVersion": 2,
       "idleAnimation": "pm0463_00_00_00000_defaultwait01_loop",
       "updatedAt": "2026-10-26T05:36:03.303Z"
