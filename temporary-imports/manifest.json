@@ -708,6 +708,21 @@
       "updatedAt": "2026-10-26T05:37:16.874Z"
     },
     {
+      "dex": 492,
+      "name": "Shaymin",
+      "path": "temporary-imports/0492/regular.glb",
+      "sha": "ff872a56b1e52452cc1058e9fd88e43b4af2b4c0",
+      "bytes": 13008064,
+      "sourceGame": "la",
+      "sourceModelId": 492,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0492_11_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:37:26.896Z"
+    },
+    {
       "dex": 493,
       "name": "Arceus",
       "path": "temporary-imports/0493/regular.glb",
