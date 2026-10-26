@@ -498,6 +498,21 @@
       "updatedAt": "2026-10-26T05:35:51.825Z"
     },
     {
+      "dex": 458,
+      "name": "Mantyke",
+      "path": "temporary-imports/0458/regular.glb",
+      "sha": "d341148d414351a9d160ab9bf7de16fcc2a565b1",
+      "bytes": 3061656,
+      "sourceGame": "la",
+      "sourceModelId": 458,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0458_00_00_10000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:35:56.965Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
