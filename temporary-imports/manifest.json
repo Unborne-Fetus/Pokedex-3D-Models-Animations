@@ -543,6 +543,21 @@
       "updatedAt": "2026-10-26T05:36:12.823Z"
     },
     {
+      "dex": 468,
+      "name": "Togekiss",
+      "path": "temporary-imports/0468/regular.glb",
+      "sha": "3783b59cecd85a34fb22714e3570d49aa07518e1",
+      "bytes": 3958084,
+      "sourceGame": "la",
+      "sourceModelId": 468,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0468_00_00_20000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:19.452Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
