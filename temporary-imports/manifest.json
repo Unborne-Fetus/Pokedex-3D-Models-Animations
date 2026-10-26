@@ -528,6 +528,21 @@
       "updatedAt": "2026-10-26T05:36:03.303Z"
     },
     {
+      "dex": 465,
+      "name": "Tangrowth",
+      "path": "temporary-imports/0465/regular.glb",
+      "sha": "312694250aa917a525aa1f4b29275534f72b52fb",
+      "bytes": 13451916,
+      "sourceGame": "la",
+      "sourceModelId": 465,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0465_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:36:12.823Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
