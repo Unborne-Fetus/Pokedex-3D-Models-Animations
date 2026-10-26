@@ -483,6 +483,21 @@
       "updatedAt": "2026-10-26T05:28:25.244Z"
     },
     {
+      "dex": 484,
+      "name": "Palkia",
+      "path": "temporary-imports/0484/regular.glb",
+      "sha": "61739880c755f9cfdcac4ec4bf6b9fb9c06b8028",
+      "bytes": 10252592,
+      "sourceGame": "la",
+      "sourceModelId": 484,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0484_11_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:30:34.652Z"
+    },
+    {
       "dex": 493,
       "name": "Arceus",
       "path": "temporary-imports/0493/regular.glb",
