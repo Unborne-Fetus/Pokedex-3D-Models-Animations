@@ -453,6 +453,21 @@
       "updatedAt": "2026-10-24T22:42:25.241Z"
     },
     {
+      "dex": 451,
+      "name": "Skorupi",
+      "path": "temporary-imports/0451/regular.glb",
+      "sha": "1c351b6482efc72612c99cbcc3bad6d69cdf8ad0",
+      "bytes": 6066052,
+      "sourceGame": "la",
+      "sourceModelId": 451,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0451_00_00_00000_defaultwait01_loop",
+      "updatedAt": "2026-10-26T05:29:36.624Z"
+    },
+    {
       "dex": 482,
       "name": "Azelf",
       "path": "temporary-imports/0482/regular.glb",
