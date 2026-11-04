@@ -751,6 +751,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0519_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:01.194Z"
+    },
+    {
+      "dex": 535,
+      "name": "Tympole",
+      "path": "temporary-imports/0535/regular.glb",
+      "sha": "d105a6eacd47b59f1239dc2dbfd017084ee8e793",
+      "bytes": 415316,
+      "sourceGame": "swsh",
+      "sourceModelId": 535,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0535_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:06.787Z"
     }
   ]
 }
