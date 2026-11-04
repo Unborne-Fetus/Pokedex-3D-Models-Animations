@@ -811,6 +811,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0554_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:20.409Z"
+    },
+    {
+      "dex": 555,
+      "name": "Darmanitan",
+      "path": "temporary-imports/0555/regular.glb",
+      "sha": "035542ee84b1b22a8b83ee6491e766dc357ea72d",
+      "bytes": 2423892,
+      "sourceGame": "swsh",
+      "sourceModelId": 555,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0555_11_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:24.733Z"
     }
   ]
 }
