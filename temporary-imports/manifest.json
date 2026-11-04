@@ -841,6 +841,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0556_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:29.517Z"
+    },
+    {
+      "dex": 561,
+      "name": "Sigilyph",
+      "path": "temporary-imports/0561/regular.glb",
+      "sha": "2048e21a9f4e003bb34a5dad469661c16908044b",
+      "bytes": 1806764,
+      "sourceGame": "swsh",
+      "sourceModelId": 561,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0561_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:34.214Z"
     }
   ]
 }
