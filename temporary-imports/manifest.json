@@ -736,6 +736,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0493_11_00_00000_defaultwait01_loop",
       "updatedAt": "2026-10-26T05:27:28.087Z"
+    },
+    {
+      "dex": 519,
+      "name": "Pidove",
+      "path": "temporary-imports/0519/regular.glb",
+      "sha": "d807ec23a19ce37becfb1b5ac51cb487e0618a35",
+      "bytes": 2765648,
+      "sourceGame": "swsh",
+      "sourceModelId": 519,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0519_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:01.194Z"
     }
   ]
 }
