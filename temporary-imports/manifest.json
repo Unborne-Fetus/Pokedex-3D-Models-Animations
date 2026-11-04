@@ -781,6 +781,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0536_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:11.311Z"
+    },
+    {
+      "dex": 537,
+      "name": "Seismitoad",
+      "path": "temporary-imports/0537/regular.glb",
+      "sha": "1f75d2144388690d4735ded7f52f4650dec19a79",
+      "bytes": 3448364,
+      "sourceGame": "swsh",
+      "sourceModelId": 537,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0537_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:16.245Z"
     }
   ]
 }
