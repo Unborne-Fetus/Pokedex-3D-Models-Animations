@@ -856,6 +856,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0561_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:34.214Z"
+    },
+    {
+      "dex": 600,
+      "name": "Klang",
+      "path": "temporary-imports/0600/regular.glb",
+      "sha": "21286b81158573307bdf7d85daf72ad201222b87",
+      "bytes": 1036796,
+      "sourceGame": "swsh",
+      "sourceModelId": 600,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0600_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:38.712Z"
     }
   ]
 }
