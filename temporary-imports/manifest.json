@@ -871,6 +871,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0600_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:38.712Z"
+    },
+    {
+      "dex": 601,
+      "name": "Klinklang",
+      "path": "temporary-imports/0601/regular.glb",
+      "sha": "88235e81ebd09440e865e73c416f96d85d035808",
+      "bytes": 1360464,
+      "sourceGame": "swsh",
+      "sourceModelId": 601,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0601_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:42.981Z"
     }
   ]
 }
