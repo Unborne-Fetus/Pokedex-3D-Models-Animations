@@ -796,6 +796,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0537_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:16.245Z"
+    },
+    {
+      "dex": 554,
+      "name": "Darumaka",
+      "path": "temporary-imports/0554/regular.glb",
+      "sha": "ad7562619a942865828a65948ea1a7a75596715a",
+      "bytes": 1509304,
+      "sourceGame": "swsh",
+      "sourceModelId": 554,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0554_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:20.409Z"
     }
   ]
 }
