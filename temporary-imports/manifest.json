@@ -766,6 +766,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0535_00_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:06.787Z"
+    },
+    {
+      "dex": 536,
+      "name": "Palpitoad",
+      "path": "temporary-imports/0536/regular.glb",
+      "sha": "34234e5e63537908147405b51e86a8493d78cf9d",
+      "bytes": 1959548,
+      "sourceGame": "swsh",
+      "sourceModelId": 536,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0536_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:11.311Z"
     }
   ]
 }
