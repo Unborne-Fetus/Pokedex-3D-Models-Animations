@@ -826,6 +826,21 @@
       "orientationVersion": 2,
       "idleAnimation": "pm0555_11_ba10_waitA01",
       "updatedAt": "2026-11-04T04:32:24.733Z"
+    },
+    {
+      "dex": 556,
+      "name": "Maractus",
+      "path": "temporary-imports/0556/regular.glb",
+      "sha": "796ec97966752cb82309b2ea1f8618f1ac58158c",
+      "bytes": 2937428,
+      "sourceGame": "swsh",
+      "sourceModelId": 556,
+      "eggPlaceholder": false,
+      "gfpakImport": true,
+      "orientation": "0deg 0deg 0deg",
+      "orientationVersion": 2,
+      "idleAnimation": "pm0556_00_ba10_waitA01",
+      "updatedAt": "2026-11-04T04:32:29.517Z"
     }
   ]
 }
